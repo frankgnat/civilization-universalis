@@ -15,11 +15,11 @@ current_age = age_1_traditions
 countries = {
 	countries = {
 
-	# Sumer
+	# Sumerians
 	SUM = {
 		own_control_core = { ur }
 		capital = ur
-		include = "expl_middle_east"
+		include = "expl_SUM"
 		starting_technology_level = 0
 		include = "muslim_tribe_no_coast"
 		government = {
