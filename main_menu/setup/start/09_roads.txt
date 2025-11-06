@@ -1,8 +1,5 @@
 
 road_network = {
-	nykoping = sodertalje
-	nykoping = strangnas
-	nykoping = kolmarden
 	kolmarden = norrkoping
 	linkoping = norrkoping
 	norrkoping = vadstena
@@ -923,8 +920,6 @@ road_network = {
 	baghdad = dayr_aqul
 	dayr_aqul = wasit
 	abdas = wasit
-	basra = abdas
-	basra = zuwayr
 	abadan = zuwayr
 	sijilmasa = todgha
 	boumalne_dades = todgha
