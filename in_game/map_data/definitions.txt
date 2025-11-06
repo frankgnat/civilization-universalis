@@ -3,7 +3,7 @@
 		scandinavian_region = {
 			svealand_area = {
 				uppland_province = { enkoping uppsala kastelholm tierp heby }
-				sodermanland_province = { nykoping kolmarden strangnas oppunda sodertalje malaren hjalmaren_lake }
+				sodermanland_province = { kolmarden strangnas oppunda sodertalje malaren hjalmaren_lake }
 				vastmanland_province = { vasteras nora sala skinskatteberg linde grythyttan }
 				nerike_province = { orebro riseberga goksholm }
 				varmland_province = { varnum tingvalla nas nordmark gillberg farnebo fryksdal josse vanern }
@@ -2130,8 +2130,11 @@ asia = {
 		}
 		crescent_region = {
 			iraq_arabi_area = {
+				ashah_province = { ur nutur eridu abzu }
+				sumer_province = { larsa }
+				teredon_province = { ubula biyan }
 				baghdad_province = { baghdad badra balad_ruz baqubah dayr_aqul khalis }
-				basra_province = { ur nutur eridu basra abadan abdas al_madar al_qatr suq_al_shuyukh zuwayr}
+				basra_province = { abadan abdas al_madar al_qatr zuwayr}
 				bataih_province = { an_nil nasiriyah numaniyyah rusafa samawa }
 				garmian_province = { qaladiza akre mawet piranshahr rawanduz sardasht }
 				hulwan_province = { gilan_gharb eyvan ilam khanaqin mandali }
