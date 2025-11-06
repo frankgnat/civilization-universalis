@@ -1,12 +1,14 @@
 ur = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
 nutur = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
 eridu = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
-enkoping = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = swedish raw_material = millet}
+abzu = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
+larsa = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
+ubula = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
+biyan = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
 uppsala = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = swedish raw_material = wheat}
 kastelholm = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = swedish raw_material = fish natural_harbor_suitability = 0.25}
 tierp = { topography = flatland vegetation = woods climate = continental religion = catholic culture = swedish raw_material = fish natural_harbor_suitability = 0.00}
 heby = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = swedish raw_material = lumber}
-nykoping = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = swedish raw_material = fish natural_harbor_suitability = 0.25}
 kolmarden = { topography = flatland vegetation = forest climate = continental religion = catholic culture = swedish raw_material = marble natural_harbor_suitability = 0.00}
 strangnas = { topography = flatland vegetation = woods climate = continental religion = catholic culture = swedish raw_material = sand}
 oppunda = { topography = wetlands vegetation = woods climate = continental religion = catholic culture = swedish raw_material = lumber}
@@ -6989,12 +6991,10 @@ balad_ruz = { topography = flatland vegetation = sparse climate = arid religion 
 baqubah = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = wool}
 dayr_aqul = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = sugar}
 khalis = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = wheat}
-basra = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = sugar}
 abadan = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = wheat natural_harbor_suitability = 0.10}
 abdas = { topography = wetlands vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = clay}
 al_madar = { topography = wetlands vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = fiber_crops}
 al_qatr = { topography = wetlands vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = rice}
-suq_al_shuyukh = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
 zuwayr = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = clay natural_harbor_suitability = 0.10}
 an_nil = { topography = wetlands vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = horses}
 nasiriyah = { topography = wetlands vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet}
@@ -8025,7 +8025,6 @@ dowraq = { topography = wetlands vegetation = sparse climate = arid religion = s
 hamidiyeh = { topography = flatland vegetation = sparse climate = arid religion = shia culture = lur_culture raw_material = silk}
 hoveyzeh = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = cotton}
 mosharahat = { topography = flatland vegetation = sparse climate = arid religion = shia culture = lur_culture raw_material = wool}
-muhammerah = { topography = wetlands vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = legumes}
 borujerd = { topography = plateau vegetation = sparse climate = continental religion = shia culture = lur_culture raw_material = wheat}
 aligurdaz = { topography = plateau vegetation = sparse climate = continental religion = sunni culture = farsi_culture raw_material = iron}
 borborud = { topography = mountains vegetation = woods climate = mediterranean religion = sunni culture = farsi_culture raw_material = stone}
