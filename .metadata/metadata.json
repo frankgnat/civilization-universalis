@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Civilization Universalis",
+	"id":	"civilization-universalis",
+	"version":	"0.0.1",
+	"supported_game_version":	"1.0.0",
+	"short_description":	"A total conversion mod for Europa Universalis V.",
+	"tags":	["Overhaul"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
