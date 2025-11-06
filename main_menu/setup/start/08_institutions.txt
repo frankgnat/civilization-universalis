@@ -2,23 +2,24 @@ locations={
 
 ur = {
 	feudalism = yes
-	legalism = yes
 }
 
-uruk = {
+nutur = {
 	feudalism = yes
-	legalism = yes
 }
 
 eridu = {
 	feudalism = yes
-	legalism = yes
+}
+
+abzu = {
+	feudalism = yes
 }
 
 enkoping = {
 	feudalism = yes
-	legalism = yes
 }
+
 uppsala = {
 	feudalism = yes
 	legalism = yes
@@ -35,10 +36,7 @@ heby = {
 	feudalism = yes
 	legalism = yes
 }
-nykoping = {
-	feudalism = yes
-	legalism = yes
-}
+
 kolmarden = {
 	feudalism = yes
 	legalism = yes
