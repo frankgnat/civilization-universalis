@@ -1,0 +1,11 @@
+﻿discovered_regions = {
+}
+
+discovered_areas = {
+}
+
+discovered_provinces = {
+	ashah_province
+	sumer_province
+	teredon_province
+}
