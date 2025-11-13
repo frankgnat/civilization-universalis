@@ -1,6 +1,5 @@
 market_manager = {
-	#europe
-	add_market = lubeck
+	add_market = tell_el_muqayyar_location
 	add_market = riga
 	add_market = venice
 	add_market = novgorod
@@ -28,6 +27,7 @@ market_manager = {
 	add_market = naples
 
 	add_market = oslo #should be Bergen but too low access
+	add_market = stockholm
 	add_market = burgos
 	add_market = tbilisi
 	add_market = nuremberg

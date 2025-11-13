@@ -1,0 +1,2 @@
+﻿sumerian_culture_group = {
+}

@@ -2,9 +2,9 @@
 	western_europe = {
 		scandinavian_region = {
 			svealand_area = {
-				uppland_province = { enkoping uppsala kastelholm tierp heby }
-				sodermanland_province = { kolmarden strangnas oppunda sodertalje malaren hjalmaren_lake }
-				vastmanland_province = { vasteras nora sala skinskatteberg linde grythyttan }
+				uppland_province = { stockholm norrtalje enkoping uppsala kastelholm tierp heby }
+				sodermanland_province = { nykoping kolmarden strangnas oppunda sodertalje malaren hjalmaren_lake }
+				vastmanland_province = { arboga vasteras nora sala skinskatteberg linde grythyttan }
 				nerike_province = { orebro riseberga goksholm }
 				varmland_province = { varnum tingvalla nas nordmark gillberg farnebo fryksdal josse vanern }
 				dalarna_province = { avesta falun leksand grange malung mora idre hedemora orsa soderbarke stora_tuna floda siljan }
@@ -2128,14 +2128,21 @@ asia = {
 				sea_azov_province = { obitochny_gulf genichskaya_channel taganrog_gulf belosaraysk_gulf yasensk_bay temryuk_bay bay_arabat }
 			}
 		}
+
+		mesopotamia_region = {
+			lower_mesopotamia_area = {
+				hammar_province = { 
+					tell_abu_shahrain_location 
+					tell_el_muqayyar_location
+				}
+			}
+		}
+
 		crescent_region = {
 			iraq_arabi_area = {
-				ashah_province = { ur nutur eridu abzu }
-				sumer_province = { larsa }
-				teredon_province = { ubula biyan }
 				baghdad_province = { baghdad badra balad_ruz baqubah dayr_aqul khalis }
-				basra_province = { abadan abdas al_madar al_qatr zuwayr}
-				bataih_province = { an_nil nasiriyah numaniyyah rusafa samawa }
+				basra_province = { basra abadan abdas al_madar al_qatr zuwayr}
+				bataih_province = { an_nil nasiriyah numaniyyah rusafa }
 				garmian_province = { qaladiza akre mawet piranshahr rawanduz sardasht }
 				hulwan_province = { gilan_gharb eyvan ilam khanaqin mandali }
 				kufa_province = { kufa al_udayb ayn_tamr hillah karbala qadisiyyah }

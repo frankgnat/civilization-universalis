@@ -14,25 +14,24 @@ current_age = age_1_traditions
 
 countries = {
 	countries = {
-
-	# Sumerians
 	SUM = {
-		own_control_core = { ur }
-		capital = ur
-		include = "expl_SUM"
-		starting_technology_level = 0
-		include = "muslim_tribe_no_coast"
+		own_control_core = {
+			tell_el_muqayyar_location
+		}
+
+		starting_technology_level = 1
+
+		capital = tell_el_muqayyar_location
+		include = "sumerians_template"
 		government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
 			ruler = random
 		}
+		country_rank = rank_county
 	}
-	
 	SWE = {
 		own_control_core = {
 
-			nykoping  kastelholm
+			stockholm norrtalje nykoping arboga kastelholm
 			enkoping uppsala kolmarden soderkoping norrkoping
 			linkoping alvastra vadstena strangnas tierp
 			heby vasteras oppunda nora sala orebro riseberga
@@ -167,6 +166,7 @@ countries = {
 
 		}
 
+		capital = stockholm
 		dynasty = bjalbo_atten_dynasty
 		dynasty = aspenas_atten_dynasty
 
@@ -32683,7 +32683,7 @@ countries = {
 			khalafabad machul quban
 			ahvaz dowraq hamidiyeh hoveyzeh mosharahat muhammerah
 			kazimah
-			hillah samawa suq_al_shuyukh
+			hillah
 		}
 
 		starting_technology_level = 3
@@ -44257,8 +44257,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -44273,8 +44271,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -44347,8 +44343,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -44426,8 +44420,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -56599,7 +56591,7 @@ countries = {
 			an_nil nasiriyah numaniyyah rusafa
 			khalafabad quban
 			ahvaz dowraq hamidiyeh hoveyzeh mosharahat muhammerah
-			samawa suq_al_shuyukh kazimah
+			kazimah
 		}
 
 		include = "expl_middle_east"

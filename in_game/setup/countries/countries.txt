@@ -1,0 +1,7 @@
+﻿SUM = {
+	color = rgb { 38 97 156 }
+	color2 = rgb { 201 173 109 }
+	culture_definition = sumerian_culture
+	description_category = administrative
+	difficulty = 3
+}

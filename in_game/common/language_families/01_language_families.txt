@@ -1,0 +1,3 @@
+﻿sumerian_language_family = {
+	color = sumerian_language_family_color
+}

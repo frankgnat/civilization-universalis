@@ -16,7 +16,7 @@ dynasty_manager = {
 	munso_dynasty = {
 		name = { name = munso_dynasty }
 		dynasty_name_type = location
-		home = skara
+		home = stockholm
 	}
 
 	brahe_dynasty = {
@@ -8438,5 +8438,70 @@ dynasty_manager = {
 	von_Geroldseck_dynasty = {
 		name = { name = von_Geroldseck_dynasty }
 		home = offenburg
+	}
+
+	rtr_tianwan_xu_dynasty = { #CTW
+		name = { name = name_xu }
+		home = hanchuan
+	}
+	
+	rtr_chen_dynasty = { #CHE
+		name = { name = name_chen }
+		home = dehua_jiujiang
+	}
+
+	rtr_wu_zhang_dynasty = { #WUU
+		name = { name = name_zhang1 }
+		home = gaoyou
+	}
+
+	rtr_fang_dynasty = { #CFN
+		name = { name = name_fang1 }
+		home = yongjia
+	}
+
+	rtr_mao_dynasty = { #CMO
+		name = { name = name_mao }
+		home = zichuan
+	}
+
+	rtr_xia_ming_dynasty = { #CXI
+		name = { name = name_ming }
+		home = baxian
+	}
+
+	rtr_guo_dynasty = { #CGU
+		name = { name = name_guo }
+		home = zhongli
+	}
+
+	rtr_ming_zhu_dynasty = { #MNG
+		name = { name = name_zhu }
+		home = shangyuan
+	}
+
+	rtr_nanping_chen_dynasty = { #CNP
+		name = { name = name_chen }
+		home = nanping
+	}
+
+	rtr_dongguan_he_dynasty = { #CDN
+		name = { name = name_he22 }
+		home = dongguan
+	}
+
+	rtr_li_dynasty = { #CSI
+		name = { name = name_li31 }
+		home = jingzhao
+	}
+
+	rtr_bayad_dynasty = { #CKO
+		name = { name = bayad_dynasty }
+		home = kaifeng
+	}
+
+	rtr_han_dynasty = { #Han Shantong
+		name = { name = name_han2 }
+		home = qiaoxian
 	}
 }

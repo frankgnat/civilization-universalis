@@ -54,7 +54,7 @@ character_db={
 		adm = 29 dip = 18 mil = 52
 		birth_date = 1280.6.1
 		death_date = 1321.5.31
-		birth = oslo
+		birth = stockholm
 		father = swe_magnus_ladulas
 		dynasty = bjalbo_atten_dynasty
 		tag = SWE
@@ -67,7 +67,7 @@ character_db={
 		adm = 41 dip = 58 mil = 24
 		birth_date = 1282.6.1
 		death_date = 1318.1.1
-		birth = oslo
+		birth = stockholm
 		father = swe_magnus_ladulas
 		dynasty = bjalbo_atten_dynasty
 		tag = SWE
@@ -79,7 +79,7 @@ character_db={
 		religion = catholic
 		birth_date = 1282.6.1
 		death_date = 1318.1.1
-		birth = oslo
+		birth = stockholm
 		father = swe_magnus_ladulas
 		dynasty = bjalbo_atten_dynasty
 		tag = SWE
@@ -170,7 +170,7 @@ character_db={
 		father = swe_erik_magnusson
 		mother = nor_ingeborg
 		birth_date = 1316.5.1
-		birth = oslo
+		birth = stockholm
 		dynasty = bjalbo_atten_dynasty
 		tag = SWE
 	}
@@ -192,7 +192,7 @@ character_db={
 		religion = norse
 		birth_date = 945.1.1
 		death_date = 995.1.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		dynasty = munso_dynasty
 		tag = SWE
 	}
@@ -203,7 +203,7 @@ character_db={
 		religion = catholic
 		birth_date = 980.1.1
 		death_date = 1022.1.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		dynasty = munso_dynasty
 		tag = SWE
 		father = swe_erik_vii
@@ -215,7 +215,7 @@ character_db={
 		religion = catholic
 		birth_date = 1008.1.1
 		death_date = 1050.1.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		dynasty = munso_dynasty
 		tag = SWE
 		father = swe_olof_i
@@ -227,7 +227,7 @@ character_db={
 		religion = catholic
 		birth_date = 1010.1. # unknown
 		death_date = 1060.1.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		dynasty = munso_dynasty
 		tag = SWE
 		father = swe_olof_i
@@ -263,7 +263,7 @@ character_db={
 		adm = 30 dip = 19 mil = 27
 		birth_date = 1030.1.1
 		death_date = 1075.1.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		dynasty = garderike_dynasty
 		tag = SWE
 	}
@@ -310,7 +310,7 @@ character_db={
 		religion = norse
 		birth_date = 1053.1.1 # unknown
 		death_date = 1083.2.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		father = swe_stenkil
 		dynasty = stenkil_dynasty
 		tag = SWE
@@ -335,7 +335,7 @@ character_db={
 		religion = catholic
 		birth_date = 1106.1.1
 		death_date = 1134.6.4
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		father = dan_niels
 		dynasty = estrid_dynasty
 		tag = SWE
@@ -371,7 +371,7 @@ character_db={
 		religion = catholic
 		birth_date = 1130.1.1
 		death_date = 1161.1.1
-		birth = oslo # unknown
+		birth = stockholm # unknown
 		father = dan_henrik_skadelar
 		dynasty = estrid_dynasty
 		tag = SWE
@@ -13015,6 +13015,26 @@ character_db={
 		ruler_trait = greedy
 	}
 
+	cas_maria_molina = {	
+		first_name = { name = name_mary }
+		culture = castilian
+		religion = catholic
+		estate = nobles_estate
+		adm = 67 dip = 86 mil = 43
+		female = yes
+		birth_date = 1264.1.1
+		death_date = 1321.7.1
+		birth = molina_de_aragon
+		#father = cas_alfonso_molina
+		#mother = cas_mayor_alfonso_meneses
+		spouse = cas_sancho_iv_burgundy
+		dynasty = burgundy_castile_dynasty # Should be dynasty = molina_dynasty
+		tag = CAS
+		ruler_trait = intricate_web_weaver
+		ruler_trait = charismatic_negotiator
+		ruler_trait = righteous
+	}
+
 	# Father of the King of Castile & Previous King
 	cas_fernando_iv_burgundy = {	
 		first_name = { name = name_ferdinand }
@@ -13202,6 +13222,23 @@ character_db={
 		dynasty = burgundy_castile_dynasty
 		tag = POR
 		ruler_trait = silver_tongue
+	}
+
+	cas_juan_manuel = {	
+		first_name = { name = name_john }
+		culture = castilian
+		religion = catholic
+		estate = nobles_estate
+		adm = 72 dip = 44 mil = 38
+		birth_date = 1282.5.5
+		birth = puebla_de_montalban # Escalona
+		#father = sto_manuel_burgundy
+		#mother = cas_beatrice_savoie
+		dynasty = manuel_dynasty
+		tag = CAS
+		artist = writer
+		artist_trait = prominent
+		artist_skill = 0.8
 	}
 
 	# Line of the Counts of Aumale
@@ -48718,7 +48755,7 @@ adm = 31 dip = 34 mil = 24
 		birth = mubemde
 		birth_date = 1302.1.1
 		female = yes
-		father = bug_katu_kintu
+		father = kit_bukuku_bachwezi
 		culture = rutara_culture
 		religion = bantu_religion
 		tag = KIT
@@ -81053,7 +81090,7 @@ adm = 31 dip = 34 mil = 24
 		female = yes
 		spouse = mkl_albrecht_ii_mecklenburg
 		birth_date = 1317.1.1
-		birth = oslo
+		birth = stockholm
 		dynasty = bjalbo_atten_dynasty
 		father = swe_erik_magnusson
 		mother = nor_ingeborg
@@ -84354,7 +84391,7 @@ adm = 31 dip = 34 mil = 24
 	#Hesse
 	hun_saint_elisabeth_of_hungary = { #Grandgrand-grandmother of Ruler and Saint
 	#https://en.wikipedia.org/wiki/Elizabeth_of_Hungary
-		first_name = { name = name_sophia }
+		first_name = { name = name_elizabeth }
 		nickname = { name = "the_saint" }
 		culture = hungarian
 		religion = catholic

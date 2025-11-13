@@ -1,25 +1,25 @@
 locations={
+	tell_abu_shahrain_location = {
+		feudalism = no
+		legalism = no
+	}
+	tell_el_muqayyar_location = {
+		feudalism = no
+		legalism = no
+	}
 
-ur = {
+stockholm = {
 	feudalism = yes
+	legalism = yes
 }
-
-nutur = {
+norrtalje = {
 	feudalism = yes
+	legalism = yes
 }
-
-eridu = {
-	feudalism = yes
-}
-
-abzu = {
-	feudalism = yes
-}
-
 enkoping = {
 	feudalism = yes
+	legalism = yes
 }
-
 uppsala = {
 	feudalism = yes
 	legalism = yes
@@ -36,7 +36,10 @@ heby = {
 	feudalism = yes
 	legalism = yes
 }
-
+nykoping = {
+	feudalism = yes
+	legalism = yes
+}
 kolmarden = {
 	feudalism = yes
 	legalism = yes
@@ -53,7 +56,10 @@ sodertalje = {
 	feudalism = yes
 	legalism = yes
 }
-
+arboga = {
+	feudalism = yes
+	legalism = yes
+}
 vasteras = {
 	feudalism = yes
 	legalism = yes
@@ -23281,10 +23287,7 @@ al_qatr = {
 	feudalism = yes
 	legalism = yes
 }
-suq_al_shuyukh = {
-	feudalism = yes
-	legalism = yes
-}
+
 zuwayr = {
 	feudalism = yes
 	legalism = yes
@@ -23305,10 +23308,7 @@ rusafa = {
 	feudalism = yes
 	legalism = yes
 }
-samawa = {
-	feudalism = yes
-	legalism = yes
-}
+
 qaladiza = {
 	feudalism = yes
 	legalism = yes

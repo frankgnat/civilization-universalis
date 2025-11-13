@@ -1,14 +1,11 @@
-﻿###################
-# Completed Tiles #
-###################
-ur = dda910
-nutur = 540601
-eridu = eedfb5
-abzu = 7e0981
-larsa = bba13d
-ubula = 99a12e # Basra
-biyan = ddabd3 # Khorramshahr
-#############
+﻿##############
+tell_abu_shahrain_location = bba13d
+tell_el_muqayyar_location = 99a129
+##############
+stockholm = dda910
+norrtalje = 540601
+nykoping = 7e0981
+arboga = eedfb5
 enkoping = a82db1
 uppsala = 541583
 kastelholm = 1e05
@@ -10548,7 +10545,6 @@ qadisiyyah = dda11f
 badra = eea11f
 dayr_aqul = 77a124
 an_nil = 88a124
-samawa = 99a129
 bakusaya = aaa129
 al_tib = bba129
 wasit = cca129
@@ -10556,6 +10552,7 @@ rusafa = dda129
 al_qatr = eea129
 abdas = 77a12e
 al_madar = 88a12e
+basra = 99a12e
 abadan = aaa133
 hebron= cca133
 majdal = dda133
@@ -11452,6 +11449,7 @@ nardin = ddcdd8
 arkvaz = 113d33
 dehloran = 444b29
 hamidiyeh = 88606a
+muhammerah = ddabd3 #Khorramshahr
 yazduye = 666e38
 quban = cc8129
 divandarreh = 88ad10
