@@ -1,9 +1,29 @@
 locations={
+	al_hudud_location = {
+		feudalism = no
+		legalism = no
+	}
+	nasiriyah_location = {
+		feudalism = no
+		legalism = no
+	}
 	tell_abu_shahrain_location = {
 		feudalism = no
 		legalism = no
 	}
+	tell_al_lahm_location = {
+		feudalism = no
+		legalism = no
+	}
+	tell_al_ubaid_location = {
+		feudalism = no
+		legalism = no
+	}
 	tell_el_muqayyar_location = {
+		feudalism = no
+		legalism = no
+	}
+	tell_khaiber_location ={
 		feudalism = no
 		legalism = no
 	}
@@ -23283,10 +23303,6 @@ al_madar = {
 	feudalism = yes
 	legalism = yes
 }
-al_qatr = {
-	feudalism = yes
-	legalism = yes
-}
 
 zuwayr = {
 	feudalism = yes
@@ -23296,19 +23312,10 @@ an_nil = {
 	feudalism = yes
 	legalism = yes
 }
-nasiriyah = {
-	feudalism = yes
-	legalism = yes
-}
 numaniyyah = {
 	feudalism = yes
 	legalism = yes
 }
-rusafa = {
-	feudalism = yes
-	legalism = yes
-}
-
 qaladiza = {
 	feudalism = yes
 	legalism = yes
@@ -26677,15 +26684,7 @@ hamidiyeh = {
 	feudalism = yes
 	legalism = yes
 }
-hoveyzeh = {
-	feudalism = yes
-	legalism = yes
-}
 mosharahat = {
-	feudalism = yes
-	legalism = yes
-}
-muhammerah = {
 	feudalism = yes
 	legalism = yes
 }
