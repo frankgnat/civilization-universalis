@@ -1,7 +1,11 @@
-﻿##############
+﻿al_hudud_location = dda129
+nasiriyah_location = aaa138
 tell_abu_shahrain_location = bba13d
+tell_al_lahm_location = ddabd3
+tell_al_ubaid_location = eea129
 tell_el_muqayyar_location = 99a129
-##############
+tell_khaiber_location = dde4e2
+#
 stockholm = dda910
 norrtalje = 540601
 nykoping = 7e0981
@@ -10548,8 +10552,6 @@ an_nil = 88a124
 bakusaya = aaa129
 al_tib = bba129
 wasit = cca129
-rusafa = dda129
-al_qatr = eea129
 abdas = 77a12e
 al_madar = 88a12e
 basra = 99a12e
@@ -10560,7 +10562,6 @@ safed = eea133
 sulaymaniyah = 77a138
 hawraman = 88a138
 numaniyyah = 99a138
-nasiriyah = aaa138
 zuwayr = cca13d
 azraq = 99346f
 shoubak = 553510
@@ -11217,7 +11218,6 @@ fereydunshahr = 339501
 anarak = aa7cc4
 jondaq = dd428d
 yazdikhwast = 11c638 #Izadkhwast
-hoveyzeh = dde4e2
 ilam = ccbe33
 sonqor = bb77b5
 bandar_deylam = 22cb79
@@ -11449,7 +11449,6 @@ nardin = ddcdd8
 arkvaz = 113d33
 dehloran = 444b29
 hamidiyeh = 88606a
-muhammerah = ddabd3 #Khorramshahr
 yazduye = 666e38
 quban = cc8129
 divandarreh = 88ad10
