@@ -32678,10 +32678,10 @@ countries = {
 			kufa al_udayb qadisiyyah
 			dayr_aqul badra ilam
 			wasit abdanan al_tib arkvaz bakusaya dehloran meymeh
-			basra abadan abdas al_madar al_qatr zuwayr
-			an_nil nasiriyah numaniyyah rusafa
+			basra abadan abdas al_madar zuwayr
+			an_nil numaniyyah
 			khalafabad machul quban
-			ahvaz dowraq hamidiyeh hoveyzeh mosharahat muhammerah
+			ahvaz dowraq hamidiyeh mosharahat muhammerah
 			kazimah
 			hillah
 		}
@@ -56587,10 +56587,10 @@ countries = {
 		own_control_core = {
 			dayr_aqul badra ilam
 			wasit abdanan al_tib arkvaz bakusaya dehloran meymeh
-			basra abadan abdas al_madar al_qatr zuwayr
-			an_nil nasiriyah numaniyyah rusafa
+			basra abadan abdas al_madar zuwayr
+			an_nil numaniyyah
 			khalafabad quban
-			ahvaz dowraq hamidiyeh hoveyzeh mosharahat muhammerah
+			ahvaz dowraq hamidiyeh mosharahat muhammerah
 			kazimah
 		}
 
