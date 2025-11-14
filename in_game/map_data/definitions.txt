@@ -2132,8 +2132,13 @@ asia = {
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
 				hammar_province = { 
-					tell_abu_shahrain_location 
+					al_hudud_location
+					nasiriyah_location
+					tell_abu_shahrain_location
+					tell_al_lahm_location
+					tell_al_ubaid_location 
 					tell_el_muqayyar_location
+					tell_khaiber_location
 				}
 			}
 		}
@@ -2141,8 +2146,8 @@ asia = {
 		crescent_region = {
 			iraq_arabi_area = {
 				baghdad_province = { baghdad badra balad_ruz baqubah dayr_aqul khalis }
-				basra_province = { basra abadan abdas al_madar al_qatr zuwayr}
-				bataih_province = { an_nil nasiriyah numaniyyah rusafa }
+				basra_province = { basra abadan abdas al_madar zuwayr}
+				bataih_province = { an_nil numaniyyah }
 				garmian_province = { qaladiza akre mawet piranshahr rawanduz sardasht }
 				hulwan_province = { gilan_gharb eyvan ilam khanaqin mandali }
 				kufa_province = { kufa al_udayb ayn_tamr hillah karbala qadisiyyah }
@@ -2373,7 +2378,7 @@ asia = {
 				zarand_province = { zarand_iran bafq behabad kuhbanan ravar ravar_nayband_corridor dasht_lut4 }
 			}
 			khuzestan_area = {
-				ahvaz_province = { ahvaz dowraq hamidiyeh hoveyzeh mosharahat muhammerah }
+				ahvaz_province = { ahvaz dowraq hamidiyeh mosharahat }
 				borujerd_province = { borujerd aligurdaz borborud dorud gerit sibak }
 				deh_kord_province = { deh_kord borujen samiram sisakht vanak yasuj }
 				dezful_province = { dezful andimeshk masjed_soleyman shush shushtar somaleh }
