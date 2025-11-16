@@ -1,0 +1,9 @@
+﻿pagan_religion = {
+	color = pagan_religion_color
+	group = pagan_religion_group
+
+	definition_modifier = {
+		tolerance_heretic = 1
+		tolerance_heathen = 1
+	}
+}
