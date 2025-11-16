@@ -1,0 +1,8 @@
+﻿pagan_religion_group = {
+	color = pagan_religion_group_color
+	allow_slaves_of_same_group = yes
+	convert_slaves_at_start = yes
+	modifier = {
+		allow_rgo_slave_demand = yes
+	}
+}a
