@@ -2131,14 +2131,38 @@ asia = {
 
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				hammar_province = { 
+				al_hudud_province = { 
 					al_hudud_location
+				}
+				al_khidhir_province = {
+					al_khidhir_location
+				}
+				nasiriyah_province = { 
 					nasiriyah_location
+				}
+				samawah_province = {
+					samawah_location
+				}
+				tell_abu_shahrain_province = { 
 					tell_abu_shahrain_location
+				}
+				tell_al_lahm_province = { 
 					tell_al_lahm_location
+				}
+				tell_al_ubaid_province = { 
 					tell_al_ubaid_location 
+				}
+				tell_el_muqayyar_province = { 
 					tell_el_muqayyar_location
+				}
+				tell_khaiber_province = { 
 					tell_khaiber_location
+				}
+				tell_as_senkereh_province = { 
+					tell_as_senkereh_location
+				}
+				warka_province = { 
+					warka_location
 				}
 			}
 		}
@@ -2146,11 +2170,11 @@ asia = {
 		crescent_region = {
 			iraq_arabi_area = {
 				baghdad_province = { baghdad badra balad_ruz baqubah dayr_aqul khalis }
-				basra_province = { basra abadan abdas al_madar zuwayr}
+				basra_province = { abadan abdas al_madar }
 				bataih_province = { an_nil numaniyyah }
 				garmian_province = { qaladiza akre mawet piranshahr rawanduz sardasht }
 				hulwan_province = { gilan_gharb eyvan ilam khanaqin mandali }
-				kufa_province = { kufa al_udayb ayn_tamr hillah karbala qadisiyyah }
+				kufa_province = { ayn_tamr karbala }
 				safhat_jibal_province = { kirkuk altun_kupri chamchamal daquq erbil tuz_khurma }
 				samarra_province = { samarra al_anbar ar_rabb hit tikrit ukbara lake_habbaniyah tharthar }
 				wasit_province = { wasit abdanan al_tib arkvaz bakusaya dehloran meymeh }
