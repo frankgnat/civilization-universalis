@@ -1,5 +1,6 @@
 ﻿al_hudud_location = dda129
 al_khidhir_location = cca11f
+hamzah_location = 99a138
 nasiriyah_location = aaa138
 samawah_location = aaa11f
 tell_abu_shahrain_location = bba13d
@@ -10559,7 +10560,6 @@ majdal = dda133
 safed = eea133
 sulaymaniyah = 77a138
 hawraman = 88a138
-numaniyyah = 99a138
 azraq = 99346f
 shoubak = 553510
 madaba = ee36ce
