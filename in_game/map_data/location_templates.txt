@@ -1,5 +1,6 @@
 al_hudud_location = { topography = wetlands vegetation = sparse climate = arid religion = pagan_religion culture = sumerian_culture raw_material = millet }
 al_khidhir_location = { topography = wetlands vegetation = sparse climate = arid religion = pagan_religion culture = sumerian_culture raw_material = millet }
+hamzah_location = { topography = wetlands vegetation = sparse climate = arid religion = pagan_religion culture = sumerian_culture raw_material = millet }
 nasiriyah_location = { topography = wetlands vegetation = sparse climate = arid religion = pagan_religion culture = sumerian_culture raw_material = millet }
 samawah_location = { topography = wetlands vegetation = sparse climate = arid religion = pagan_religion culture = sumerian_culture raw_material = salt }
 tell_abu_shahrain_location = { topography = flatland vegetation = sparse climate = arid religion = pagan_religion culture = sumerian_culture raw_material = millet }
@@ -7004,7 +7005,6 @@ abadan = { topography = flatland vegetation = desert climate = arid religion = s
 abdas = { topography = wetlands vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = clay}
 al_madar = { topography = wetlands vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = fiber_crops}
 an_nil = { topography = wetlands vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = horses}
-numaniyyah = { topography = wetlands vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = livestock}
 qaladiza = { topography = hills vegetation = woods climate = mediterranean religion = sunni culture = kurdish_culture raw_material = millet}
 akre = { topography = flatland vegetation = sparse climate = mediterranean religion = sunni culture = kurdish_culture raw_material = fruit}
 mawet = { topography = hills vegetation = woods climate = continental religion = sunni culture = kurdish_culture raw_material = lumber}
