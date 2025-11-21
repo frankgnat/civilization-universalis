@@ -1,3 +1,0 @@
-colony_manager={
-
-}
