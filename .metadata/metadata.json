@@ -1,11 +1,16 @@
-﻿{
+{
 	"name":	"Civilization Universalis",
 	"id":	"civilization-universalis",
-	"version":	"0.0.1",
-	"supported_game_version":	"1.0.0",
+	"version" : "",
+	"supported_game_version" : "",
 	"short_description":	"A total conversion mod for Europa Universalis V.",
 	"tags":	["Overhaul"],
-	"relationships":	[],
-	"game_custom_data":	{
-}
+	"relationships" : [],
+	"game_custom_data" : {
+		"multiplayer_synchronized" : true,
+		"replace_paths" : [
+			"common/holy_sites",
+			"setup/countries"
+		]
+	}
 }
