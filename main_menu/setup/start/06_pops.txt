@@ -1,23 +1,38 @@
 locations = {
-	al_hudud_location = {
-		define_pop = { type = tribesmen	size = 1.000 culture = sumerian_culture religion = pagan_religion }
-	}
-	nasiriyah_location = {
-		define_pop = { type = tribesmen	size = 1.000 culture = sumerian_culture religion = pagan_religion }
+	manama_location = {
+		define_pop = { type = peasants	size = 4.999	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	tell_abu_shahrain_location = {
-		define_pop = { type = tribesmen	size = 1.000 culture = sumerian_culture religion = pagan_religion }
+		define_pop = { type = peasants	size = 4.999	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	tell_abu_shahrain_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	tell_al_lahm_location = {
-		define_pop = { type = tribesmen	size = 1.000 culture = sumerian_culture religion = pagan_religion }
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	tell_al_ubaid_location = {
-		define_pop = { type = tribesmen	size = 1.000 culture = sumerian_culture religion = pagan_religion }
+		define_pop = { type = tribesmen	size = 4.999	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	tell_el_muqayyar_location = {
-		define_pop = { type = tribesmen	size = 4.999 culture = sumerian_culture religion = pagan_religion }
+		define_pop = { type = tribesmen	size = 4.999	culture = sumerian_culture 	religion = pagan_religion }
 	}
-	tell_khaiber_location = {
-		define_pop = { type = tribesmen	size = 1.000 culture = sumerian_culture religion = pagan_religion }
+	testprovince4 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	testprovince5 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	}
+	testprovince6 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
 }
