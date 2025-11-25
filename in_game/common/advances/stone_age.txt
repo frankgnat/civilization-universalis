@@ -1,0 +1,31 @@
+﻿agriculture_advance = {
+	age = stone_age
+	depth = 0
+	starting_technology_level = 1
+	research_cost = 1.0
+
+	allow = { has_embraced_institution = institution:cooperation_institution }
+
+	can_extract_wheat = yes
+	can_extract_maize = yes
+	can_extract_potato = yes
+	can_extract_rice = yes
+	can_extract_millet = yes
+	can_extract_legumes = yes
+}
+
+pottery_advance = {
+	age = stone_age
+	depth = 0
+	starting_technology_level = 1
+	research_cost = 1.0
+
+	allow = { has_embraced_institution = institution:pyrotechnology_institution }
+
+	can_extract_wheat = yes
+	can_extract_maize = yes
+	can_extract_potato = yes
+	can_extract_rice = yes
+	can_extract_millet = yes
+	can_extract_legumes = yes
+}
