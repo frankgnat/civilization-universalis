@@ -55,8 +55,5 @@ government = {
 }
 
 discovered_provinces = {
-	tell_abu_shahrain_province
-	tell_al_lahm_province
-	tell_al_ubaid_province
-	tell_el_muqayyar_province
+	dhi_qar_province
 }
