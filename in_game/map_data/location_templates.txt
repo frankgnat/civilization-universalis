@@ -1,3 +1,4 @@
+al_wahashiya_lake = { topography = lakes climate = mediterranean}
 dawhat_salwah_sea_zone = { topography = narrows climate = subtropical}
 dawhat_zalum_sea_zone = { topography = narrows climate = subtropical}
 fasht_al_adham_sea_zone = { topography = narrows climate = subtropical}
@@ -8,6 +9,7 @@ juzur_hawar_sea_zone = { topography = narrows climate = subtropical}
 manama_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 nasiriyah_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 qarya_kazim_al_hafiz_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+suq_al_shuyukh_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = fruit }
 tarout_bay_sea_zone = { topography = narrows climate = subtropical}
 tell_abu_shahrain_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 tell_al_lahm_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
