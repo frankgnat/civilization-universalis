@@ -2,11 +2,16 @@
 	western_asia_subcontinent = {
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
+				dhi_qar_province = { 
+					hudud_location
+					nasiriyah_location
+					qarya_kazim_al_hafiz_location
+					tell_abu_shahrain_location 
+					tell_al_lahm_location
+					tell_al_ubaid_location
+					tell_el_muqayyar_location
+				}
 				manama_province = { manama_location }
-				tell_abu_shahrain_province = { tell_abu_shahrain_location }
-				tell_al_lahm_province = { tell_al_lahm_location }
-				tell_al_ubaid_province = { tell_al_ubaid_location }
-				tell_el_muqayyar_province = { tell_el_muqayyar_location }
 			}
 			persian_gulf_area = {
 				gulf_of_bahrain_province = { 
