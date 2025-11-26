@@ -11,6 +11,9 @@ locations = {
 	qarya_kazim_al_hafiz_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
+	suq_al_shuyukh_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
 	tell_abu_shahrain_location = {
 		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
