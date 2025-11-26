@@ -1,0 +1,35 @@
+﻿stone_age = {
+	year = 1
+	price_stability = 0.1
+	max_price = 3
+	
+	modifier = {
+		lack_of_control_impact_on_warscore = -0.1
+	}
+	
+	efficiency = 1.0
+	
+	victory_card = 0
+	
+	months_for_exploration_spread = 1800
+
+	max_ai_privilege_per_estate = {
+		nobles_estate = 8
+		clergy_estate = 8
+		burghers_estate = 9
+		peasants_estate = 5
+		dhimmi_estate = 6
+		tribes_estate = 5
+		cossacks_estate = 5
+	}
+	
+	min_ai_privilege_per_estate = {
+		nobles_estate = 5
+		clergy_estate = 5
+		burghers_estate = 7
+		peasants_estate = 4
+		dhimmi_estate = 4
+		tribes_estate = 1
+		cossacks_estate = 1
+	}
+}
