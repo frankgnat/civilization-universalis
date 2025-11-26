@@ -28,6 +28,7 @@ sea_zones = {
 #river_provinces = { 628 630 }		#Thames
 
 lakes = { 
+	al_wahashiya_lake
 } 
 
 impassable_mountains = {
