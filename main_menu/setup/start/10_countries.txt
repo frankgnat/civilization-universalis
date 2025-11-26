@@ -15,12 +15,7 @@ countries = {
 		SUM = {
 			include = "SUM_template"
 			own_control_core = {
-				tell_abu_shahrain_location
-				tell_al_lahm_location
-				tell_al_ubaid_location
 				tell_el_muqayyar_location
-				testprovince5
-				testprovince6
 			}
 
 			country_rank = rank_county
