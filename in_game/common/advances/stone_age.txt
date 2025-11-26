@@ -5,13 +5,33 @@
 	research_cost = 1.0
 
 	allow = { has_embraced_institution = institution:cooperation_institution }
+}
 
-	can_extract_wheat = yes
-	can_extract_maize = yes
-	can_extract_potato = yes
-	can_extract_rice = yes
-	can_extract_millet = yes
-	can_extract_legumes = yes
+animal_husbandry_advance = {
+	age = stone_age
+	depth = 1
+	starting_technology_level = 2
+	research_cost = 1.0
+
+	requires = agriculture_advance
+}
+
+irrigation_advance = {
+	age = stone_age
+	depth = 1
+	starting_technology_level = 2
+	research_cost = 1.0
+
+	requires = agriculture_advance
+}
+
+astrology_advance = {
+	age = stone_age
+	depth = 0
+	starting_technology_level = 1
+	research_cost = 1.0
+
+	allow = { has_embraced_institution = institution:abstraction_institution }
 }
 
 pottery_advance = {
@@ -21,11 +41,13 @@ pottery_advance = {
 	research_cost = 1.0
 
 	allow = { has_embraced_institution = institution:pyrotechnology_institution }
+}
 
-	can_extract_wheat = yes
-	can_extract_maize = yes
-	can_extract_potato = yes
-	can_extract_rice = yes
-	can_extract_millet = yes
-	can_extract_legumes = yes
+writing_advance = {
+	age = stone_age
+	depth = 1
+	starting_technology_level = 2
+	research_cost = 1.0
+
+	requires = pottery_advance
 }
