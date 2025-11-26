@@ -2,7 +2,8 @@
 	western_asia_subcontinent = {
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				dhi_qar_province = { 
+				nasiriyah_province = { 
+					al_wahashiya_lake
 					hudud_location
 					nasiriyah_location
 					qarya_kazim_al_hafiz_location
@@ -10,6 +11,9 @@
 					tell_al_lahm_location
 					tell_al_ubaid_location
 					tell_el_muqayyar_location
+				}
+				hawr_al_hammar_province = {
+					suq_al_shuyukh_location
 				}
 				manama_province = { manama_location }
 			}
