@@ -1,0 +1,56 @@
+﻿sumerian_language = {
+	color = lapis_lazuli_color
+
+	male_names = {
+		balulu_name			# Balulu
+		barsalnuna_name		# Barsalnuna
+		eannatum_name		# Eannatum
+		elulu_name			# Elulu
+		enkidu_name 		# Enkidu
+		enmebaragesi_name	# Enmebaragesi
+		enmenduranki_name	# Enmenduranki
+		enmenuna_name		# Enmenuna
+		enmerkar_name		# Enmerkar
+		entemena_name		# Entemena
+		gilgamesh_name		# Gilgamesh
+		gudea_name			# Gudea
+		ibbisin_name		# Ibbisin
+		lugalbanda_name		# Lugalbanda
+		lugalkisalsi_name	# Lugalkisalsi
+		lugalkitun_name		# Lugalkitun
+		lugalzagesi_name	# Lugalzagesi
+		mamagal_name		# Mamagal
+		mesannepada_name	# Mesannepada
+		shulgi_name			# Shulgi
+		susuda_name			# Susuda
+		ubaratutu_name		# Ubaratutu
+		udulkalama_name		# Udulkalama
+		urlumma_name		# Urlumma
+		urnammu_name		# Urnammu
+		urningirsu_name		# Urningirsu
+		urnungal_name		# Urnungal
+		urzababa_name		# Urzababa
+		utnapishtim_name	# Utnapishtim
+		utuhengal_name		# Utuhengal
+	}
+
+	female_names = {
+		ezenanzu_name		# Ezenanzu
+		geme_name			# Geme
+		gemeama_name		# Gemeama
+		gemehegal_name		# Gemehegal
+		gemeilli_name		# Gemeilli
+		gemezida_name		# Gemezida
+		ninasha_name		# Ninasha
+		ninbanda_name		# Ninbanda
+		sagburu_name		# Sagburu
+		tabunani_name		# Tabunani
+		uruama_name			# Uruama
+	}
+
+	dynasty_names = {
+	}
+
+	lowborn = {
+	}
+}
