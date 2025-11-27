@@ -1,24 +1,32 @@
 al_wahashiya_lake = { topography = lakes climate = mediterranean}
+afak_location = { topography = flatland vegetation = farmland  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+baghdad_location = { topography = flatland vegetation = farmland  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+baqubah_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+batha_location = { topography = flatland vegetation = farmland  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+chibayish_location = { topography = flatland vegetation = farmland  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+diwaniyah_location = { topography = flatland vegetation = farmland  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+fallujah_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+hillah_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+karbala_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+kut_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+madain_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+manama_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+najaf_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+nasiriyah_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+shatrah_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+suwaira_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+suq_al_shuyukh_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = fruit }
+taji_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+tell_abu_shahrain_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+tell_al_ubaid_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+
 dawhat_salwah_sea_zone = { topography = narrows climate = subtropical}
 dawhat_zalum_sea_zone = { topography = narrows climate = subtropical}
 fasht_al_adham_sea_zone = { topography = narrows climate = subtropical}
 fasht_al_dibal_sea_zone = { topography = narrows climate = subtropical}
 fasht_al_jarim_sea_zone = { topography = narrows climate = subtropical}
-hudud_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 juzur_hawar_sea_zone = { topography = narrows climate = subtropical}
-manama_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-nasiriyah_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-qarya_kazim_al_hafiz_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-suq_al_shuyukh_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = fruit }
 tarout_bay_sea_zone = { topography = narrows climate = subtropical}
-tell_abu_shahrain_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-tell_al_lahm_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-tell_al_ubaid_location = { topography = flatland vegetation = sparse climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-tell_el_muqayyar_location = { topography = wetlands vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
-testprovince3 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
-testprovince4 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
-testprovince5 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
-testprovince6 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 
 wasteland1 = { topography = flatland_wasteland vegetation = woods climate = arctic}
 wasteland2 = { topography = flatland_wasteland vegetation = woods climate = arctic}
