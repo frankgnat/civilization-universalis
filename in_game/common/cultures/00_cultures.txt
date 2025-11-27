@@ -1,0 +1,14 @@
+﻿sumerian_culture = { 
+	language = sumerian_language
+	
+	color = lapiz_lazuli_color
+	
+	tags = { arabian_gfx middle_east_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mesopotamian_culture_group
+	}
+}
