@@ -15,12 +15,12 @@ countries = {
 		SUM = {
 			include = "SUM_template"
 			own_control_core = {
-				tell_el_muqayyar_location
+				nasiriyah_location
 			}
 
 			country_rank = rank_county
 			dynasty = habsburg_dynasty
-			capital = tell_el_muqayyar_location
+			capital = nasiriyah_location
 		}
 	}
 }
