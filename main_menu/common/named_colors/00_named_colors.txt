@@ -1,0 +1,5 @@
+﻿
+colors = {
+	lapis_lazuli_color = rgb { 38 97 156 }
+	lemon_ginger_color = rgb { 150 132 40 }
+}
