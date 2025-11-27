@@ -1,32 +1,62 @@
 locations = {
-	hudud_location = {
+	afak_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	baghdad_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	baqubah_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	batha_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	chibayish_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	diwaniyah_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	fallujah_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	hillah_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	karbala_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	kut_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	madain_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }	
 	}
 	manama_location = {
 		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
+	najaf_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
 	nasiriyah_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
-	qarya_kazim_al_hafiz_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	shatrah_location = {
+		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	suq_al_shuyukh_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
-	tell_abu_shahrain_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	tell_abu_shahrain_location = {
+	suwaira_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
-	tell_al_lahm_location = {
+	taji_location = {
+		define_pop = { type = tribesmen	size = 5.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	tell_abu_shahrain_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	tell_al_ubaid_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	tell_el_muqayyar_location = {
-		define_pop = { type = tribesmen	size = 4.999	culture = sumerian_culture 	religion = pagan_religion }
 	}
 }
