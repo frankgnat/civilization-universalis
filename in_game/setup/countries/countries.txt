@@ -1,4 +1,6 @@
-﻿DMN = {
+﻿# Dilmun
+
+DMN = {
 	color = rgb { 181 140 14 }
 	color2 = rgb { 0 92 117 }
 	culture_definition = dilmunite_culture
@@ -6,9 +8,11 @@
 	description_category = diplomatic
 	difficulty = 5
 }
+
+# Sumerians
 SUM = {
-	color = rgb { 38 97 156 }
-	color2 = rgb { 201 173 109 }
+	color = lapis_lazuli_color
+	color2 = lemon_ginger_color
 	culture_definition = sumerian_culture
 	religion_definition = pagan_religion
 	description_category = administrative
