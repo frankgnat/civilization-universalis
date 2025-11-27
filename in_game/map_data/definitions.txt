@@ -2,18 +2,33 @@
 	western_asia_subcontinent = {
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				nasiriyah_province = { 
-					al_wahashiya_lake
-					hudud_location
-					nasiriyah_location
-					qarya_kazim_al_hafiz_location
-					tell_abu_shahrain_location 
-					tell_al_lahm_location
-					tell_al_ubaid_location
-					tell_el_muqayyar_location
+				baghdad_province = {
+					baghdad_location
+					baqubah_location
+					fallujah_location
+					hillah_location
+					karbala_location
+					madain_location
+					taji_location
 				}
-				hawr_al_hammar_province = {
+				najaf_province = {
+					najaf_location
+				}	
+				qadisiyyah_province = {
+					afak_location
+					diwaniyah_location
+					kut_location
+					suwaira_location
+				}
+				dhi_qar_province = { 
+					al_wahashiya_lake
+					batha_location
+					chibayish_location
+					nasiriyah_location 
+					shatrah_location
 					suq_al_shuyukh_location
+					tell_abu_shahrain_location
+					tell_al_ubaid_location
 				}
 				manama_province = { manama_location }
 			}
