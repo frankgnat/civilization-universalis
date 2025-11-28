@@ -1,5 +1,4 @@
 ﻿# Dilmun
-
 DMN = {
 	color = rgb { 181 140 14 }
 	color2 = rgb { 0 92 117 }
