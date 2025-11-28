@@ -4,6 +4,7 @@
 			lower_mesopotamia_area = {
 				anbar_province = {
 					fallujah_location
+					habbaniya_lake_sea_zone
 				}
 				baghdad_province = {
 					baghdad_location
@@ -13,10 +14,10 @@
 				babylon_province = {
 					hillah_location
 					mahawil_location
+					midhatiya_location
 					musayib_location
 				}
 				dhi_qar_province = { 
-					al_wahashiya_lake
 					batha_location
 					chibayish_location
 					nasiriyah_location 
@@ -35,12 +36,13 @@
 				}	
 				manama_province = { manama_location }
 				najaf_province = { 
+					kufa_location
 					najaf_location
 				}
 				qadisiyyah_province = {
 					afak_location
 					diwaniyah_location
-					hay_location
+					shamiya_location
 				}
 				wasit_province = { 
 					aziziyah_location
