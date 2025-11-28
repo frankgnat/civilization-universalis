@@ -29,13 +29,13 @@ locations = {
 	gassan_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
-	hay_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
 	hillah_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	karbala_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	kufa_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	kut_location = {
@@ -49,6 +49,9 @@ locations = {
 	}
 	manama_location = {
 		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	midhatiya_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	musayib_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
@@ -64,6 +67,9 @@ locations = {
 	}
 	numaniyah_location = {
 		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	shamiya_location = {
+		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
 	shatrah_location = {
 		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
