@@ -21,6 +21,7 @@
 					batha_location
 					chibayish_location
 					nasiriyah_location 
+					rifai_location
 					shatrah_location
 					suq_al_shuyukh_location
 					tell_abu_shahrain_location
@@ -35,6 +36,9 @@
 					karbala_location
 				}	
 				manama_province = { manama_location }
+				muthanna_province = {
+					rumaitha_location
+				}
 				najaf_province = { 
 					kufa_location
 					najaf_location
