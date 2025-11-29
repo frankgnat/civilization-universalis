@@ -1,4 +1,14 @@
-﻿# Dilmun
+﻿# Akkadians
+AKD = {
+	color = dark_gold_color
+	color2 = vivid_cerulean_color
+	culture_definition = akkadian_culture
+	religion_definition = pagan_religion
+	description_category = military
+	difficulty = 2
+}
+
+# Dilmun
 DMN = {
 	color = rgb { 181 140 14 }
 	color2 = rgb { 0 92 117 }
