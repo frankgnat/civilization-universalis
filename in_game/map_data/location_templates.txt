@@ -13,7 +13,7 @@ fasht_al_adham_sea_zone = { topography = narrows climate = subtropical}
 fasht_al_dibal_sea_zone = { topography = narrows climate = subtropical}
 fasht_al_jarim_sea_zone = { topography = narrows climate = subtropical}
 gassan_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
-habbaniya_lake_sea_zone = { topography = lakes climate = mediterranean}
+habbaniya_lake_sea_zone = { topography = lakes climate = arid}
 hillah_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
 juzur_hawar_sea_zone = { topography = narrows climate = subtropical}
 karbala_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
@@ -28,6 +28,8 @@ nahrawan_location = { topography = flatland vegetation = sparse climate = arid r
 najaf_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 nasiriyah_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
 numaniyah_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
+rifai_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
+rumaitha_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 shamiya_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
 shatrah_location = { topography = flatland vegetation = sparse  climate = arid religion = catholic culture = danube_bavarian raw_material = wheat }
 suwaira_location = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = iraqi_culture raw_material = millet }
