@@ -68,6 +68,12 @@ locations = {
 	numaniyah_location = {
 		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
+	rifai_location = {
+		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
+	rumaitha_location = {
+		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	}
 	shamiya_location = {
 		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
 	}
