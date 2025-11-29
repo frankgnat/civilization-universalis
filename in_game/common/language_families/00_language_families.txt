@@ -1,3 +1,7 @@
-﻿sumerian_language_family = {
+﻿east_semitic_language_family = {
+	color = dark_gold_color
+}
+
+sumerian_language_family = {
 	color = lapis_lazuli_color
 }
