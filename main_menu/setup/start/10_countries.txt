@@ -2,6 +2,16 @@ current_age = stone_age
 
 countries = {
 	countries = {
+		AKD = {
+			include = "AKD_template"
+			own_control_core = {
+				taji_location
+			}
+
+			country_rank = rank_county
+			dynasty = habsburg_dynasty
+			capital = taji_location
+		}
 		DMN = {
 			include = "DMN_template"
 			own_control_core = {
