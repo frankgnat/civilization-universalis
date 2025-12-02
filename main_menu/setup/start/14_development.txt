@@ -1,4 +1,11 @@
 development = {
+# all valid values is added together
+#
+# region, area, province_definition or location can be used
+# location_rank, climate, topography or vegetation keys can be used
+# coastal, river
+
+
 	coastal = 2
 	river = 3
 	road = 2
