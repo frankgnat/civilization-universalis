@@ -1,82 +1,13 @@
-﻿asia_continent = {
-	western_asia_subcontinent = {
-		mesopotamia_region = {
-			lower_mesopotamia_area = {
-				anbar_province = {
-					fallujah_location
-					habbaniya_lake_sea_zone
-				}
-				baghdad_province = {
-					baghdad_location
-					taji_location
-					zaidan_location
-				}
-				babylon_province = {
-					hillah_location
-					mahawil_location
-					midhatiya_location
-					musayib_location
-				}
-				dhi_qar_province = { 
-					batha_location
-					chibayish_location
-					nasiriyah_location 
-					rifai_location
-					shatrah_location
-					suq_al_shuyukh_location
-					tell_abu_shahrain_location
-					tell_al_ubaid_location
-				}
-				diyala_province = {
-					baqubah_location
-					madain_location
-					nahrawan_location
-				}
-				karbala_province = {
-					karbala_location
-				}	
-				manama_province = { manama_location }
-				muthanna_province = {
-					rumaitha_location
-				}
-				najaf_province = { 
-					kufa_location
-					najaf_location
-				}
-				qadisiyyah_province = {
-					afak_location
-					diwaniyah_location
-					shamiya_location
-				}
-				wasit_province = { 
-					aziziyah_location
-					badra_location
-					gassan_location
-					kut_location
-					numaniyah_location
-					suwaira_location
-				}
-			}
-			persian_gulf_area = {
-				gulf_of_bahrain_province = { 
-					dawhat_salwah_sea_zone 
-					dawhat_zalum_sea_zone 
-					fasht_al_adham_sea_zone
-					fasht_al_dibal_sea_zone
-					fasht_al_jarim_sea_zone
-					juzur_hawar_sea_zone 
-					tarout_bay_sea_zone 
-				}
-			}
-		}
-	}
-}
-
-custom_continent = {
+﻿custom_continent = {
 	custom_subcontintent = {	
 		custom_region = {
+			#always have at least 256 normal non-wasteland locations on the map and code!!!
 			my_land_area = {
 				my_land_province = {
+					testprovince1
+					testprovince2
+					testprovince3
+					testprovince4
 					testprovince5
 					testprovince6
 					testprovince7
@@ -329,6 +260,14 @@ custom_continent = {
 					testprovince254
 					testprovince255
 					testprovince256
+				}
+			}
+
+			#always have at least 1 sea zone & 1 port on your map and code!!!
+			#don't forget to define them in default.map and ports.csv
+			my_sea_area = {
+				my_sea_province = {
+					my_sea_zone 
 				}
 			}
 
