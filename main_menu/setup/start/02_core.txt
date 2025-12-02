@@ -1,16 +1,16 @@
 institution_manager = {
 	institutions = {
-		cooperation_institution = {
+		feudalism = {
 			active = yes
-			birth_place = tell_el_muqayyar_location
+			birth_place = testprovince1
 		}
-		abstraction_institution = {
+		legalism = {
 			active = yes
-			birth_place = tell_el_muqayyar_location
+			birth_place = testprovince2
 		}
-		pyrotechnology_institution = {
+		meritocracy = {
 			active = yes
-			birth_place = tell_abu_shahrain_location
+			birth_place = testprovince3
 		}
 	}
 }
