@@ -1,36 +1,35 @@
-current_age = stone_age
+current_age = age_1_traditions
 
 countries = {
 	countries = {
-		AKD = {
-			include = "AKD_template"
+		HAB = {	#Austria
 			own_control_core = {
-				taji_location
+				testprovince1
+				testprovince2
+				testprovince3
+				testprovince4
+				testprovince5
+				testprovince6
 			}
 
-			country_rank = rank_county
-			dynasty = habsburg_dynasty
-			capital = taji_location
-		}
-		DMN = {
-			include = "DMN_template"
-			own_control_core = {
-				manama_location
+			starting_technology_level = 2
+			#include = "expl_western_europe"
+			#include = "catholic_monarchy_no_coast"
+			#include = "german_principality"
+			
+			discovered_regions = {
+				custom_region
 			}
 
-			country_rank = rank_county
-			dynasty = habsburg_dynasty
-			capital = manama_location
-		}
-		SUM = {
-			include = "SUM_template"
-			own_control_core = {
-				nasiriyah_location
+			government = {
+				type = monarchy
+				heir_selection = cognatic_primogeniture
+				ruler = hab_albrecht_ii_habsburg
 			}
 
-			country_rank = rank_county
+			country_rank = rank_duchy
 			dynasty = habsburg_dynasty
-			capital = nasiriyah_location
+			capital = testprovince1
 		}
 	}
 }
