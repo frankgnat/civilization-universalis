@@ -1,7 +1,0 @@
-﻿
-colors = {
-	dark_gold_color = rgb { 112 78 48 }
-	lapis_lazuli_color = rgb { 38 97 156 }
-	lemon_ginger_color = rgb { 150 132 40 }
-	vivid_cerulean_color = rgb { 0 170 238 }
-}
