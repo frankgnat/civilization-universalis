@@ -1,7 +1,8 @@
 dynasty_manager = {
+
 	habsburg_dynasty = {
 		name = { name = habsburg_dynasty }
-		home = tell_el_muqayyar_location
+		home = testprovince1
 		dynasty_name_type = location
 		male_names = {
 			name_albert name_frederick name_leopold name_otto name_rudolf name_vladislav
@@ -10,4 +11,5 @@ dynasty_manager = {
 			name_anna name_catherine name_elizabeth name_margaret
 		}
 	}
+
 }
