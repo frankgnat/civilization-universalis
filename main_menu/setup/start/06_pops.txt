@@ -1,101 +1,40 @@
-locations = {
-	afak_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+locations={
+
+	testprovince1 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	aziziyah_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	testprovince2 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	badra_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	testprovince3 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	baghdad_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	testprovince4 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	baqubah_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	testprovince5 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	batha_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
+	testprovince6 = {
+		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
+		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	chibayish_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	diwaniyah_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	fallujah_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	gassan_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	hillah_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	karbala_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	kufa_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	kut_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	madain_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }	
-	}
-	mahawil_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	manama_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	midhatiya_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	musayib_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	nahrawan_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	najaf_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	nasiriyah_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	numaniyah_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	rifai_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	rumaitha_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	shamiya_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	shatrah_location = {
-		define_pop = { type = peasants	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	suq_al_shuyukh_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	suwaira_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	taji_location = {
-		define_pop = { type = tribesmen	size = 5.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	tell_abu_shahrain_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	tell_al_ubaid_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
-	zaidan_location = {
-		define_pop = { type = tribesmen	size = 1.000	culture = sumerian_culture 	religion = pagan_religion }
-	}
+	
 }
