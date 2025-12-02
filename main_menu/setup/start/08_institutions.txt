@@ -1,12 +1,28 @@
- locations = {
-	manama_location = {
-		cooperation_institution = yes
-		abstraction_institution = yes
-		pyrotechnology_institution = yes
+ locations={
+
+	testprovince1 = {
+		feudalism = yes
+		legalism = yes
 	}
-	tell_el_muqayyar_location = {
-		cooperation_institution = yes
-		abstraction_institution = yes
-		pyrotechnology_institution = yes
+	testprovince2 = {
+		feudalism = yes
+		legalism = yes
 	}
+	testprovince3 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince4 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince5 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince6 = {
+		feudalism = yes
+		legalism = yes
+	}
+
 }
