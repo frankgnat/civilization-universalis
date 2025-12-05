@@ -1,0 +1,3 @@
+colors = {
+	barley_color = rgb { 227 190 139 }
+}
