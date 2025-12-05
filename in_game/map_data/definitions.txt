@@ -1,4 +1,13 @@
-﻿custom_continent = {
+﻿asia_continent = {
+	west_asia_subcontinent = {
+		mesopotamia_region = {
+			lower_mesopotamia_area = {
+				9752_3072_province = { 9752_3072_location }
+			}
+		}
+	}
+}
+custom_continent = {
 	custom_subcontintent = {	
 		custom_region = {
 			#always have at least 256 normal non-wasteland locations on the map and code!!!
