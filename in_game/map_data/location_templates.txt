@@ -4,7 +4,7 @@
 	vegetation = sparse 
 	culture = danube_bavarian 
 	religion = catholic 
-	raw_material = millet
+	raw_material = barley_good
 }
 
 my_sea_zone = { topography = narrows climate = subtropical}
