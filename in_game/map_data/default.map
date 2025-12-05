@@ -57,7 +57,6 @@ impassable_mountains = {
 	wasteland8
 	wasteland9
 	wasteland10
-	wasteland_blocker
 }
 
 non_ownable = {
