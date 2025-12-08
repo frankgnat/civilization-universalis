@@ -1,0 +1,4 @@
+﻿sumerian_pantheon_religion = {
+    color = lapis_lazuli_color
+    group = pagan_religion_group
+}
