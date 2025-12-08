@@ -1,16 +1,19 @@
-locations={
-
-	testprovince1 = {
-		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
-		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
-		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
-		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+locations = {
+	nasiriyah_location = {
+		define_pop = {
+			type = tribesmen
+			size = 5.000
+			culture = sumerian_culture
+			religion = sumerian_pantheon_religion
+		}
 	}
-	testprovince2 = {
-		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
-		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
-		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
-		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
+	suq_al_shuyukh_location = {
+		define_pop = {
+			type = tribesmen
+			size = 1.000
+			culture = sumerian_culture
+			religion = sumerian_pantheon_religion
+		}
 	}
 	testprovince3 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
@@ -36,5 +39,4 @@ locations={
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	
 }
