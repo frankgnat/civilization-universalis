@@ -1,0 +1,6 @@
+colors = {
+	dark_gray_color = rgb { 169 169 169 }
+	barley_color = rgb { 227 190 139 }
+	lapis_lazuli_color = rgb { 38 97 156 }
+	sienna_color = rgb { 160 82 45}
+}
