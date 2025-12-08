@@ -1,15 +1,22 @@
-9752_3072_location = { 
+nasiriyah_location = { 
 	topography = flatland
 	climate = arid 
 	vegetation = sparse 
-	culture = danube_bavarian 
-	religion = catholic 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
+}
+suq_al_shuyukh_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = sparse 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
 	raw_material = barley_good
 }
 
 my_sea_zone = { topography = narrows climate = subtropical}
 
-testprovince1 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat natural_harbor_suitability=1.00}
 testprovince2 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 testprovince3 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 testprovince4 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
