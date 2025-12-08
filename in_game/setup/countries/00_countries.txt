@@ -1,0 +1,10 @@
+﻿SUM = {
+	color = lapis_lazuli_color
+	color2 = sienna_color
+
+	culture_definition = sumerian_culture
+	religion_definition = sumerian_pantheon_religion
+	
+	description_category = administrative
+	difficulty = 3
+}
