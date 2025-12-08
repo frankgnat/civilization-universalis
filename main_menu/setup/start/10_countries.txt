@@ -2,34 +2,23 @@ current_age = age_1_traditions
 
 countries = {
 	countries = {
-		HAB = {	#Austria
+		SUM = {	
+			capital = nasiriyah_location
 			own_control_core = {
-				testprovince1
-				testprovince2
-				testprovince3
-				testprovince4
-				testprovince5
-				testprovince6
+				nasiriyah_location
 			}
 
 			starting_technology_level = 2
-			#include = "expl_western_europe"
-			#include = "catholic_monarchy_no_coast"
-			#include = "german_principality"
 			
-			discovered_regions = {
-				custom_region
+			discovered_provinces = {
+				dhi_qar_province
 			}
 
 			government = {
-				type = monarchy
-				heir_selection = cognatic_primogeniture
-				ruler = hab_albrecht_ii_habsburg
+				ruler = random
 			}
 
-			country_rank = rank_duchy
-			dynasty = habsburg_dynasty
-			capital = testprovince1
+			country_rank = rank_county
 		}
 	}
 }
