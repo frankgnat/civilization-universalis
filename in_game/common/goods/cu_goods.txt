@@ -1,19 +1,75 @@
 ﻿barley_good = {
+	color = barley_color
+
+	category = raw_material
+	method = farming
+
 	is_slaves = no
 	block_rgo_upgrade = no
 	inflation = no
 	base_production = 1
-	color = barley_color
-	food = 5
+	food = 2.0
 	transport_cost = 1
 	default_market_price = 1
-	category = raw_material
-	method = farming
 	ai_rgo_size_importance = 1
+
 	demand_add = {
 		all = 0.002
 	}
 	demand_multiply = {
 		upper = 2
 	}
+
+	custom_tags = { staple_crops_goods }
+}
+
+dates_good = {
+	color = saddle_brown_color
+
+	category = raw_material
+	method = farming
+
+	is_slaves = no
+	block_rgo_upgrade = no
+	inflation = no
+	base_production = 1
+	food = 1.0
+	transport_cost = 1
+	default_market_price = 1
+
+	ai_rgo_size_importance = 1
+
+	demand_add = {
+		all = 0.002
+	}
+	demand_multiply = {
+		upper = 2
+	}
+
+	custom_tags = { fruit_crops_goods }
+}
+
+rice_good = {
+	color = cornsilk_color
+
+	category = raw_material
+	method = farming
+
+	is_slaves = no
+	block_rgo_upgrade = no
+	inflation = no
+	base_production = 1
+	food = 3.0
+	transport_cost = 1
+	default_market_price = 1
+	ai_rgo_size_importance = 1
+
+	demand_add = {
+		all = 0.005
+	}
+	demand_multiply = {
+		upper = 2
+	}
+
+	custom_tags = { staple_crops_goods }
 }
