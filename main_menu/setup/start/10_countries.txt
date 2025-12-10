@@ -11,7 +11,8 @@ countries = {
 			starting_technology_level = 2
 			
 			discovered_provinces = {
-				dhi_qar_province
+				fadliyah_province
+				nasiriyah_province
 			}
 
 			government = {
