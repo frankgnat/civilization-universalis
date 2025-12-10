@@ -1,4 +1,5 @@
-﻿nasiriyah_location = 206C42
+﻿fadliyah_location = 6D5F1E
+nasiriyah_location = 206C42
 suq_al_shuyukh_location = 4D6729
 
 my_sea_zone = aae55b
@@ -14,7 +15,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince2 = 514A9E
 testprovince3 = 4EA7FF
 testprovince4 = A34C84
 testprovince5 = A0A04B
