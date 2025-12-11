@@ -1,0 +1,25 @@
+﻿namespace = survey_location
+
+survey_location.1 = {
+	type = location_event
+
+	title = survey_location.1.title
+	desc  = survey_location.1.desc
+
+	trigger = { }
+
+	option = {
+		name = survey_location.1.a
+		change_raw_material = goods:rice_good
+	}
+
+	option = {
+		name = survey_location.1.b
+		change_raw_material = goods:barley_good
+	}
+
+	option = {
+		name = survey_location.1.c
+		change_raw_material = goods:dates_good
+	}
+}
