@@ -1,0 +1,21 @@
+﻿location_can_have_barley_rgo_scripted_trigger = {
+	OR = {
+		location_key = fadliyah_location
+		location_key = nasiriyah_location
+		location_key = suq_al_shuyukh_location
+	}
+}
+
+location_can_have_dates_rgo_scripted_trigger = {
+	OR = {
+		location_key = fadliyah_location
+		location_key = nasiriyah_location
+		location_key = suq_al_shuyukh_location
+	}
+}
+
+location_can_have_rice_rgo_scripted_trigger = {
+	OR = {
+		location_key = suq_al_shuyukh_location
+	}
+}
