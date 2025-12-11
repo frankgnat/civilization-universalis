@@ -1,0 +1,90 @@
+﻿survey_location_cabinet_action = {
+    ability = adm
+    allow_multiple = yes
+
+    # Timed action: 1 year
+    min = 0
+    years = 1
+
+    potential = {
+        num_locations > 0
+    }
+
+    select_trigger = {
+        looking_for_a = location
+        source = actor
+        target_flag = target_location
+        name = "survey_location_select_location"
+        none_available_msg_key = "survey_location_no_locations"
+
+        column = { data = name }
+        column = { data = production }
+        column = { data = population }
+
+        visible = {
+            # Do not allow stacking the same cabinet action on the same location
+            scope:actor = {
+                NOT = {
+                    any_cabinet = {
+                        has_cabinet_action = yes
+                        cabinet_action = cabinet_action:survey_location_cabinet_action
+                        AND = {
+                            exists = interaction_target:target_location
+                            interaction_target:target_location = root
+                        }
+                    }
+                }
+            }
+        }
+
+        map_color = {
+            lerp = {
+                min_color = define:NMapColors|MAP_COLOR_LOW
+                max_color = define:NMapColors|MAP_COLOR_HIGH
+                factor = production
+            }
+        }
+    }
+
+    # While the cabinet action is active
+    location_modifier = {
+        local_production_efficiency = 0.025
+    }
+
+    # When is this action considered "finished"?
+    # (You already confirmed this part is working and the action
+    # terminates after a year.)
+    is_finished = {
+        cabinet_action:survey_location_cabinet_action = {
+            is_fully_implemented_in = root
+        }
+    }
+
+    # This runs when the cabinet action stops (finished or cancelled).
+    # We want the event *non-silent* and we want to run it on the LOCATION.
+    on_deactivate = {
+        if = {
+            limit = {
+                exists = scope:target_location
+                cabinet_action:survey_location_cabinet_action = {
+                    is_fully_implemented_in = scope:actor
+                }
+            }
+            scope:target_location = {
+                trigger_event_non_silently = survey_location.1
+            }
+        }
+    }
+
+    # Progress bar – mirrors other cabinet actions’ style,
+    # but driven by implementation progress for this action.
+    progress = {
+        cabinet_action:survey_location_cabinet_action = {
+            value = "implementation_progress_percentage(scope:actor)"
+        }
+    }
+
+    map_marker = {
+        show_for_owner = yes
+    }
+}
