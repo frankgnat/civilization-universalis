@@ -1,5 +1,14 @@
-fadliyah_location = { 
+basrah_location = { 
 	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = dates_good
+}
+
+fadliyah_location = { 
+	topography = wetlands
 	climate = arid 
 	vegetation = farmland 
 	culture = sumerian_culture 
