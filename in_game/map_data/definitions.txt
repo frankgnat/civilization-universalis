@@ -2,6 +2,7 @@
 	west_asia_subcontinent = {
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
+				basrah_province = { basrah_location }
 				fadliyah_province = { fadliyah_location }
 				nasiriyah_province = { nasiriyah_location }
 				suq_al_shuyukh_province = { suq_al_shuyukh_location }
