@@ -1,7 +1,8 @@
 ﻿basrah_location = 865428
-fadliyah_location = 6D5F1E
 nasiriyah_location = 206C42
 suq_al_shuyukh_location = 4D6729
+tell_abu_shahrain_location = 96493F
+tell_al_lahm_location = 6D5F1E
 
 my_sea_zone = aae55b
 
@@ -16,7 +17,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince4 = A34C84
 testprovince5 = A0A04B
 testprovince6 = FF7F6D
 testprovince7 = A22143
