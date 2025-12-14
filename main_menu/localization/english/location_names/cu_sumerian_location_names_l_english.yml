@@ -1,5 +1,6 @@
 ﻿l_english:
  basrah_location.sumerian_language: "Ur-Igi"
- fadliyah_location.sumerian_language: "Ki-Hegal"
  nasiriyah_location.sumerian_language: "Ur"
- suq_al_shuyukh_location.sumerian_language: "Sila-Abba-Mesh"
+ suq_al_shuyukh_location.sumerian_language: "Nam-Abba"
+ tell_abu_shahrain_location.sumerian_language: "Eridug"
+ tell_al_lahm_location.sumerian_language: "Kuara"
