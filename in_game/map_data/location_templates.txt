@@ -6,16 +6,6 @@ basrah_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = dates_good
 }
-
-fadliyah_location = { 
-	topography = wetlands
-	climate = arid 
-	vegetation = farmland 
-	culture = sumerian_culture 
-	religion = sumerian_pantheon_religion 
-	raw_material = dates_good
-}
-
 nasiriyah_location = { 
 	topography = flatland
 	climate = arid 
@@ -24,7 +14,6 @@ nasiriyah_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = barley_good
 }
-
 suq_al_shuyukh_location = { 
 	topography = wetlands
 	climate = arid 
@@ -32,6 +21,22 @@ suq_al_shuyukh_location = {
 	culture = sumerian_culture 
 	religion = sumerian_pantheon_religion 
 	raw_material = rice_good
+}
+tell_abu_shahrain_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = sparse 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
+}
+tell_al_lahm_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = sparse 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
 }
 
 my_sea_zone = { topography = narrows climate = subtropical}
