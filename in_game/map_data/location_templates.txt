@@ -1,3 +1,11 @@
+baghdad_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
+}
 basrah_location = { 
 	topography = flatland
 	climate = arid 
@@ -6,10 +14,50 @@ basrah_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = dates_good
 }
+hillah_location = {
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good	
+}
+karbalah_location = {
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = dates_good	
+}
+khodar_location = {
+	topography = flatland
+	climate = arid 
+	vegetation = sparse 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
+}
+madain_location = {
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good	
+}
 nasiriyah_location = { 
 	topography = flatland
 	climate = arid 
 	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
+}
+sungurlu_location = {
+	topography = hills
+	climate = continental 
+	vegetation = farmland
 	culture = sumerian_culture 
 	religion = sumerian_pantheon_religion 
 	raw_material = barley_good
@@ -38,13 +86,16 @@ tell_al_lahm_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = barley_good
 }
+yusufiyah_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
+}
 
 my_sea_zone = { topography = narrows climate = subtropical}
-
-testprovince3 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
-testprovince4 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
-testprovince5 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
-testprovince6 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 
 wasteland1 = { topography = flatland_wasteland vegetation = woods climate = arctic}
 wasteland2 = { topography = flatland_wasteland vegetation = woods climate = arctic}
