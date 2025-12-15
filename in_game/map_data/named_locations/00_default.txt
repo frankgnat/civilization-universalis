@@ -1,8 +1,15 @@
-﻿basrah_location = 865428
+﻿baghdad_location = EADDCA
+basrah_location = 865428
+hillah_location = DEB0AB
+karbalah_location = D0918A
+khodar_location = 267E4D
+madain_location = EACDCA
 nasiriyah_location = 206C42
+sungurlu_location = 5C4033
 suq_al_shuyukh_location = 4D6729
 tell_abu_shahrain_location = 96493F
 tell_al_lahm_location = 6D5F1E
+yusufiyah_location = D2B8B6
 
 my_sea_zone = aae55b
 
@@ -17,13 +24,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince5 = A0A04B
-testprovince6 = FF7F6D
-testprovince7 = A22143
-testprovince8 = 163B73
-testprovince9 = 47B161
-testprovince10 = 53B48E
-testprovince11 = 6D9868
 testprovince12 = 374830
 testprovince13 = C19FE7
 testprovince14 = 9375DB
