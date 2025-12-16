@@ -7,7 +7,9 @@
 		location_key = khodar_location
 		location_key = madain_location	
 		location_key = nasiriyah_location
+		location_key = numaniyah_location
 		location_key = samawah_location
+		location_key = sankarah_location
 		location_key = sungurlu_location
 		location_key = suq_al_shuyukh_location
 		location_key = tell_abu_shahrain_location
@@ -24,6 +26,7 @@ location_can_have_dates_rgo_scripted_trigger = {
 		location_key = hillah_location
 		location_key = madain_location	
 		location_key = nasiriyah_location
+		location_key = numaniyah_location
 		location_key = samawah_location
 		location_key = suq_al_shuyukh_location
 		location_key = yusufiyah_location
