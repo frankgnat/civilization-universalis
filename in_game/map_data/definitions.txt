@@ -14,7 +14,9 @@
 				khodar_province = { khodar_location }
 				madain_province = { madain_location }
 				nasiriyah_province = { nasiriyah_location }
+				numaniyah_province = { numaniyah_location }
 				samawah_province = { samawah_location }
+				sankarah_province = { sankarah_location }
 				suq_al_shuyukh_province = { suq_al_shuyukh_location }
 				tell_abu_shahrain_province = { tell_abu_shahrain_location }
 				tell_al_lahm_province = { tell_al_lahm_location }
@@ -28,8 +30,6 @@ custom_continent = {
 		custom_region = {
 			my_land_area = {
 				my_land_province = {
-					testprovince13
-					testprovince14
 					testprovince15
 					testprovince16
 					testprovince17
