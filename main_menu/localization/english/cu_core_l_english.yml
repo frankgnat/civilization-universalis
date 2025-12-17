@@ -1,0 +1,5 @@
+﻿l_english:
+ capital_location_name_string: "[ROOT.GetCapital.GetNameWithNoTooltip]"
+ county_capital_country_name: "[ROOT.Custom('change_country_name_customizable_localization')]"
+ test_loc_key: "this is a test $nasiriyah_location.sumerian_language$"
+ cu_core.1.desc: "[ROOT.GetCountry.GetCapital.GetNameWithNoTooltip]"
