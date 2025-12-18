@@ -7,6 +7,7 @@
 		}
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
+				badra_province = { badra_location }
 				baghdad_province = { baghdad_location }
 				basrah_province = { basrah_location }
 				hillah_province = { hillah_location }
@@ -32,7 +33,6 @@ custom_continent = {
 		custom_region = {
 			my_land_area = {
 				my_land_province = {
-					testprovince17
 					testprovince18
 					testprovince19
 					testprovince20
