@@ -3,6 +3,7 @@ basrah_location = 865428
 hillah_location = DEB0AB
 karbalah_location = D0918A
 khodar_location = 267E4D
+kut_location = C37269
 madain_location = EACDCA
 nasiriyah_location = 206C42
 numaniyah_location = B65449
@@ -28,7 +29,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince16 = 5BB285
 testprovince17 = 2D09C7
 testprovince18 = 191D90
 testprovince19 = E7994A
