@@ -16,6 +16,7 @@ cu_change_generic_county_name_event.1 = {
 		else_if = { limit = { capital = location:hillah_location } change_country_name = hillah_location }
 		else_if = { limit = { capital = location:karbalah_location } change_country_name = karbalah_location}
 		else_if = { limit = { capital = location:khodar_location } change_country_name = khodar_location }
+		else_if = { limit = { capital = location:kut_location } change_country_name = kut_location }
 		else_if = { limit = { capital = location:madain_location } change_country_name = madain_location }
 		else_if = { limit = { capital = location:nasiriyah_location } change_country_name = nasiriyah_location }
 		else_if = { limit = { capital = location:numaniyah_location } change_country_name = numaniyah_location }
