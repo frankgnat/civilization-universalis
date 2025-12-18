@@ -38,6 +38,14 @@ khodar_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = barley_good
 }
+kut_location = {
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good	
+}
 madain_location = {
 	topography = flatland
 	climate = arid 
