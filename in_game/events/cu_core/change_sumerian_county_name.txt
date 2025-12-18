@@ -5,83 +5,31 @@ cu_change_sumerian_county_name_event.1 = {
 	hidden = yes
 	triggered_only = yes
 
-	trigger = { 
+	trigger = {
 		country_rank = country_rank:rank_county
+		has_primary_or_accepted_culture = culture:sumerian_culture }
+	}
+
+	immediate = {
+		if = { limit = { capital = location:baghdad_location } change_country_name = baghdad_location.sumerian_language }
+		else_if = { limit = { capital = location:basrah_location } change_country_name = basrah_location.sumerian_language }
+		else_if = { limit = { capital = location:hillah_location } change_country_name = hillah_location.sumerian_language }
+		else_if = { limit = { capital = location:karbalah_location } change_country_name = karbalah_location.sumerian_language }
+		else_if = { limit = { capital = location:khodar_location } change_country_name = khodar_location.sumerian_language }
+		else_if = { limit = { capital = location:madain_location } change_country_name = madain_location.sumerian_language }
+		else_if = { limit = { capital = location:nasiriyah_location } change_country_name = nasiriyah_location.sumerian_language }
+		else_if = { limit = { capital = location:numaniyah_location } change_country_name = numaniyah_location.sumerian_language }
+		else_if = { limit = { capital = location:samawah_location } change_country_name = samawah_location.sumerian_language }
+		else_if = { limit = { capital = location:sankarah_location } change_country_name = sankarah_location.sumerian_language }
+		else_if = { limit = { capital = location:shatrah_location } change_country_name = shatrah_location.sumerian_language }
+		else_if = { limit = { capital = location:sungurlu_location } change_country_name = sungurlu_location.sumerian_language }
+		else_if = { limit = { capital = location:suq_al_shuyukh_location } change_country_name = suq_al_shuyukh_location.sumerian_language }
+		else_if = { limit = { capital = location:tell_abu_shahrain_location } change_country_name = tell_abu_shahrain_location.sumerian_language }
+		else_if = { limit = { capital = location:tell_al_lahm_location } change_country_name = tell_al_lahm_location.sumerian_language }
+		else_if = { limit = { capital = location:yusufiyah_location } change_country_name = yusufiyah_location.sumerian_language }
 	}
 
 	option = {
-		name = cu_change_sumerian_county_name_event.1.baghdad_location
-		trigger = { capital = location:baghdad_location }
-		change_country_name = baghdad_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.basrah_location
-		trigger = { capital = location:basrah_location }
-		change_country_name = basrah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.hillah_location
-		trigger = { capital = location:hillah_location }
-		change_country_name = hillah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.karbalah_location
-		trigger = { capital = location:karbalah_location }
-		change_country_name = karbalah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.khodar_location
-		trigger = { capital = location:khodar_location }
-		change_country_name = khodar_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.madain_location
-		trigger = { capital = location:madain_location }
-		change_country_name = madain_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.nasiriyah_location
-		trigger = { capital = location:nasiriyah_location }
-		change_country_name = nasiriyah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1. numaniyah_location
-		trigger = { capital = location: numaniyah_location }
-		change_country_name =  numaniyah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.samawah_location
-		trigger = { capital = location:samawah_location }
-		change_country_name = samawah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.sankarah_location
-		trigger = { capital = location:sankarah_location }
-		change_country_name = sankarah_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.sungurlu_location
-		trigger = { capital = location:sungurlu_location }
-		change_country_name = sungurlu_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.suq_al_shuyukh_location
-		trigger = { capital = location:suq_al_shuyukh_location }
-		change_country_name = suq_al_shuyukh_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.tell_abu_shahrain_location
-		trigger = { capital = location:tell_abu_shahrain_location }
-		change_country_name = tell_abu_shahrain_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.tell_al_lahm_location
-		trigger = { capital = location:tell_al_lahm_location }
-		change_country_name = tell_al_lahm_location.sumerian_language
-	}
-	option = {
-		name = cu_change_sumerian_county_name_event.1.yusufiyah_location
-		trigger = { capital = location:yusufiyah_location }
-		change_country_name = yusufiyah_location.sumerian_language
+		name = cu_change_sumerian_county_name_event.1.ok
 	}
 }
