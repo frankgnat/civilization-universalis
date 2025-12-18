@@ -8,6 +8,7 @@ nasiriyah_location = 206C42
 numaniyah_location = B65449
 samawah_location = 30A163
 sankarah_location = 103722
+shatrah_location = C8EFDA
 sungurlu_location = 5C4033
 suq_al_shuyukh_location = 4D6729
 tell_abu_shahrain_location = 96493F
@@ -27,7 +28,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince15 = F3ABDD
 testprovince16 = 5BB285
 testprovince17 = 2D09C7
 testprovince18 = 191D90
