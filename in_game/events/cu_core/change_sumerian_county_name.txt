@@ -7,7 +7,7 @@ cu_change_sumerian_county_name_event.1 = {
 
 	trigger = {
 		country_rank = country_rank:rank_county
-		has_primary_or_accepted_culture = culture:sumerian_culture
+  		culture = culture:sumerian_culture
 	}
 
 	immediate = {
