@@ -11,7 +11,8 @@ cu_change_sumerian_county_name_event.1 = {
 	}
 
 	immediate = {
-		if = { limit = { capital = location:baghdad_location } change_country_name = baghdad_location.sumerian_language }
+		if = { limit = { capital = location:badra_location } change_country_name = badra_location.sumerian_language }
+		else_if = { limit = { capital = location:baghdad_location } change_country_name = baghdad_location.sumerian_language }
 		else_if = { limit = { capital = location:basrah_location } change_country_name = basrah_location.sumerian_language }
 		else_if = { limit = { capital = location:hillah_location } change_country_name = hillah_location.sumerian_language }
 		else_if = { limit = { capital = location:karbalah_location } change_country_name = karbalah_location.sumerian_language }
