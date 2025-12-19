@@ -19,6 +19,7 @@ suq_al_shuyukh_location = 4D6729
 tell_abu_shahrain_location = 96493F
 tell_al_lahm_location = 6D5F1E
 yusufiyah_location = D2B8B6
+zubaydiya_location = B68A49
 
 my_sea_zone = aae55b
 
@@ -33,7 +34,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince21 = F91D08
 testprovince22 = D6BA2E
 testprovince23 = 48D486
 testprovince24 = 0AB770
