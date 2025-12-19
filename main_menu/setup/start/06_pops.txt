@@ -167,4 +167,12 @@ locations = {
 			religion = sumerian_pantheon_religion
 		}
 	}
+	zubaydiya_location = {
+		define_pop = {
+			type = tribesmen
+			size = 1.000
+			culture = sumerian_culture
+			religion = sumerian_pantheon_religion
+		}
+	}
 }
