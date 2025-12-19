@@ -15,6 +15,7 @@
 				khodar_province = { khodar_location }
 				kut_province = { kut_location }
 				madain_province = { madain_location }
+				musayab_province = { musayab_location }
 				nasiriyah_province = { nasiriyah_location }
 				numaniyah_province = { numaniyah_location }
 				samawah_province = { samawah_location }
