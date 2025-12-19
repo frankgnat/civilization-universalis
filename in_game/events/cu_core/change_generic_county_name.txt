@@ -32,6 +32,7 @@ cu_change_generic_county_name_event.1 = {
 		else_if = { limit = { capital = location:tell_abu_shahrain_location } change_country_name = tell_abu_shahrain_location }
 		else_if = { limit = { capital = location:tell_al_lahm_location } change_country_name = tell_al_lahm_location }
 		else_if = { limit = { capital = location:yusufiyah_location } change_country_name = yusufiyah_location }
+		else_if = { limit = { capital = location:zubaydiya_location } change_country_name = zubaydiya_location }
 	}
 
 	option = {
