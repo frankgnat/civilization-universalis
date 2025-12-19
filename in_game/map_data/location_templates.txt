@@ -62,6 +62,14 @@ madain_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = barley_good	
 }
+musayab_location = {
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good	
+}
 nasiriyah_location = { 
 	topography = flatland
 	climate = arid 
