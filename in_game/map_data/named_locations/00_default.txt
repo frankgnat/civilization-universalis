@@ -1,12 +1,14 @@
 ﻿badra_location = 331714
 baghdad_location = EADDCA
 basrah_location = 865428
+diwaniya_location = D08AC9
 hillah_location = DEB0AB
 karbalah_location = D0918A
 khodar_location = 267E4D
 kut_location = C37269
 madain_location = EACDCA
 musayab_location = D08AA6
+najaf_location = D0B48A
 nasiriyah_location = 206C42
 numaniyah_location = B65449
 samawah_location = 30A163
@@ -31,8 +33,6 @@ wasteland8 = 66c2a5
 wasteland9 = 3288bd
 wasteland10 = 5e4fa2
 
-testprovince19 = E7994A
-testprovince20 = A8D6A1
 testprovince21 = F91D08
 testprovince22 = D6BA2E
 testprovince23 = 48D486
