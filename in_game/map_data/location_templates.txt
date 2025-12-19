@@ -22,6 +22,14 @@ basrah_location = {
 	religion = sumerian_pantheon_religion 
 	raw_material = dates_good
 }
+diwaniya_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = dates_good
+}
 hillah_location = {
 	topography = flatland
 	climate = arid 
@@ -69,6 +77,14 @@ musayab_location = {
 	culture = sumerian_culture 
 	religion = sumerian_pantheon_religion 
 	raw_material = barley_good	
+}
+najaf_location = { 
+	topography = flatland
+	climate = arid 
+	vegetation = farmland 
+	culture = sumerian_culture 
+	religion = sumerian_pantheon_religion 
+	raw_material = barley_good
 }
 nasiriyah_location = { 
 	topography = flatland
