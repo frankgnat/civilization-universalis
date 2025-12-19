@@ -23,6 +23,14 @@ locations = {
 			religion = sumerian_pantheon_religion
 		}
 	}
+	diwaniya_location = {
+		define_pop = {
+			type = tribesmen
+			size = 1.000
+			culture = sumerian_culture
+			religion = sumerian_pantheon_religion
+		}
+	}
 	hillah_location = {
 		define_pop = {
 			type = tribesmen
@@ -64,6 +72,14 @@ locations = {
 		}
 	}
 	musayab_location = {
+		define_pop = {
+			type = tribesmen
+			size = 1.000
+			culture = sumerian_culture
+			religion = sumerian_pantheon_religion
+		}
+	}
+	najaf_location = {
 		define_pop = {
 			type = tribesmen
 			size = 1.000
