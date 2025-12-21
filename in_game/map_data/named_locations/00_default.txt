@@ -1,11 +1,11 @@
 ﻿badrah_location = 331714
 baghdad_location = EADDCA
 basrah_location = 865428
+chibayish_location = 676229
 diwaniyah_location = D08AC9
 faw_location = C47B3B
 gharraf_location = 968E3C
 hillah_location = DEB0AB
-islah_location = 676229
 jalibah_location = EBE8CC
 karbalah_location = D0918A
 khodar_location = 267E4D
