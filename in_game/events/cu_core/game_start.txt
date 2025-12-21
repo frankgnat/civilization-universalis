@@ -1,0 +1,20 @@
+﻿namespace = cu_game_start
+
+cu_game_start_event.discover_adjacent_locations_to_capital = {
+	type = country_event
+	hidden = yes
+	triggered_only = yes
+
+	immediate = {
+		capital = {
+			every_neighbor_location = {
+				limit = { NOT = { root = { has_discovered = this } } }
+				discover_location = root
+			}
+		}
+	}
+
+	option = { 
+		name = cu_game_start_event.discover_adjacent_locations_to_capital.a
+	}
+}
