@@ -1,0 +1,13 @@
+﻿on_game_start = {
+	on_actions = {
+		cu_game_start_on_action
+	}
+}
+
+cu_game_start_on_action = {
+	effect = {
+		every_country = {
+			trigger_event_silently = { id = cu_game_start_event.discover_adjacent_locations_to_capital }
+		}
+	}
+}
