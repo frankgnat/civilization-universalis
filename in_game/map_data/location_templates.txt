@@ -1,11 +1,11 @@
 badrah_location = { topography = flatland climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 baghdad_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 basrah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = dates_good }
+chibayish_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 diwaniyah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = dates_good }
 faw_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = dates_good }
 gharraf_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good	}
 hillah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
-islah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 jalibah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 karbalah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 khodar_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
