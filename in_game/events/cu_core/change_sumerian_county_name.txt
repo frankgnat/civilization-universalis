@@ -19,6 +19,7 @@ cu_change_sumerian_county_name_event.1 = {
 		else_if = { limit = { capital = location:faw_location } change_country_name = faw_location.sumerian_language }
 		else_if = { limit = { capital = location:gharraf_location } change_country_name = gharraf_location.sumerian_language }
 		else_if = { limit = { capital = location:hillah_location } change_country_name = hillah_location.sumerian_language }
+		else_if = { limit = { capital = location:hubaitar_location } change_country_name = hubaitar_location.sumerian_language }
 		else_if = { limit = { capital = location:jalibah_location } change_country_name = jalibah_location.sumerian_language }
 		else_if = { limit = { capital = location:karbalah_location } change_country_name = karbalah_location.sumerian_language }
 		else_if = { limit = { capital = location:khodar_location } change_country_name = khodar_location.sumerian_language }
@@ -36,6 +37,7 @@ cu_change_sumerian_county_name_event.1 = {
 		else_if = { limit = { capital = location:sungurlu_location } change_country_name = sungurlu_location.sumerian_language }
 		else_if = { limit = { capital = location:suq_al_shuyukh_location } change_country_name = suq_al_shuyukh_location.sumerian_language }
 		else_if = { limit = { capital = location:tell_abu_shahrain_location } change_country_name = tell_abu_shahrain_location.sumerian_language }
+		else_if = { limit = { capital = location:umm_qasr_location } change_country_name = umm_qasr_location.sumerian_language }
 		else_if = { limit = { capital = location:tell_al_lahm_location } change_country_name = tell_al_lahm_location.sumerian_language }
 		else_if = { limit = { capital = location:yusufiyah_location } change_country_name = yusufiyah_location.sumerian_language }
 		else_if = { limit = { capital = location:zubayr_location } change_country_name = zubayr_location.sumerian_language }
