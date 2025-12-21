@@ -13,7 +13,6 @@
 				chibayish_province = { chibayish_location }
 				diwaniyah_province = { diwaniyah_location }
 				faw_province = { faw_location }
-				gharraf_province = { gharraf_location }
 				hillah_province = { hillah_location }
 				hubaitar_province = { hubaitar_location }
 				jalibah_province = { jalibah_location }
@@ -26,6 +25,7 @@
 				nasiriyah_province = { nasiriyah_location }
 				numaniyah_province = { numaniyah_location }
 				qurnah_province = { qurnah_location }
+				rifai_province = { rifai_location }
 				samawah_province = { samawah_location }
 				sankarah_province = { sankarah_location }
 				shatrah_province = { shatrah_location }
