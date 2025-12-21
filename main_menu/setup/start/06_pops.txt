@@ -1,194 +1,89 @@
 locations = {
-	badra_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+	badrah_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	baghdad_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	basrah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
-	diwaniya_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+	diwaniyah_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
+	faw_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	gharraf_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	hillah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	islah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
+	jalibah_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	karbalah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	khodar_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	kut_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	madain_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	musayab_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	najaf_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	nasiriyah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 5.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 5.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	numaniyah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
+	qurnah_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	samawah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	sankarah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	shatrah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
+	sidra_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	sungurlu_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	suq_al_shuyukh_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	tell_abu_shahrain_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	tell_al_lahm_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	yusufiyah_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
-	zubaydiya_location = {
-		define_pop = {
-			type = tribesmen
-			size = 1.000
-			culture = sumerian_culture
-			religion = sumerian_pantheon_religion
-		}
+	zubaydiyah_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
+	zubayr_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 }
