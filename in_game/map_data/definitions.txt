@@ -10,11 +10,11 @@
 				badrah_province = { badrah_location }
 				baghdad_province = { baghdad_location }
 				basrah_province = { basrah_location }
+				chibayish_province = { chibayish_location }
 				diwaniyah_province = { diwaniyah_location }
 				faw_province = { faw_location }
 				gharraf_province = { gharraf_location }
 				hillah_province = { hillah_location }
-				islah_province = { islah_location }
 				jalibah_province = { jalibah_location }
 				karbalah_province = { karbalah_location }
 				khodar_province = { khodar_location }
