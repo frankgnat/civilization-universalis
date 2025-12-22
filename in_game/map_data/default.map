@@ -9,42 +9,20 @@ location_templates = "location_templates.txt"
 equator_y = 3340
 wrap_x = yes
 
-#############
-# VOLCANOES
-#############
 volcanoes = {
 }
 
-###################################
-# All possible earthquake zones
-###################################
 earthquakes = {
 }
 
-#############
-# SEA ZONES
-#############
-# European Seas
 sea_zones = { 
-	my_sea_zone
+	kuwait_bay_sea_zone
 } 
 
-###############
-# MAJOR RIVERS
-###############
 #river_provinces = { 628 630 }		#Thames
 
-########
-# LAKES
-########
 lakes = { 
 } 
-
-#####################
-# IMPASSABLE TERRAIN
-#####################
-# Can be colored by whoever owns the most of the province's neighbors.
-# Blocks unit movement.
 
 impassable_mountains = {
 	wasteland1
