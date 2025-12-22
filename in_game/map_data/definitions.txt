@@ -41,6 +41,19 @@
 		}
 	}
 }
+
+indian_ocean_continent = {
+	arabian_sea_subcontinent = {
+		persian_gulf_region = {
+			north_persian_gulf_area = {
+				kuwait_coast_province = {
+					kuwait_bay_sea_zone
+				}
+			}
+		}
+	}
+}
+
 custom_continent = {
 	custom_subcontintent = {	
 		custom_region = {
@@ -272,14 +285,6 @@ custom_continent = {
 					testprovince254
 					testprovince255
 					testprovince256
-				}
-			}
-
-			#always have at least 1 sea zone & 1 port on your map and code!!!
-			#don't forget to define them in default.map and ports.csv
-			my_sea_area = {
-				my_sea_province = {
-					my_sea_zone 
 				}
 			}
 
