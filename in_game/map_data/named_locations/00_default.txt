@@ -30,7 +30,7 @@ yusufiyah_location = D2B8B6
 zubaydiyah_location = B68A49
 zubayr_location = CF935E
 
-my_sea_zone = aae55b
+kuwait_bay_sea_zone = 306CA1
 
 wasteland1 = 9e0142
 wasteland2 = d53e4f
