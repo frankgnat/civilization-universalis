@@ -30,7 +30,7 @@ yusufiyah_location = { topography = flatland climate = arid vegetation = farmlan
 zubaydiyah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 zubayr_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 
-my_sea_zone = { topography = narrows climate = subtropical}
+kuwait_bay_sea_zone = { topography = narrows climate = subtropical}
 
 wasteland1 = { topography = flatland_wasteland vegetation = woods climate = arctic}
 wasteland2 = { topography = flatland_wasteland vegetation = woods climate = arctic}
