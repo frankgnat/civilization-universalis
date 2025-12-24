@@ -14,17 +14,6 @@ horses = { #War Horses
 
 }
 
-clay = {
-	method = gathering
-	category = raw_material
-	color = goods_clay
-	default_market_price = 0.5
-	
-	base_production = 0.4
-	
-	ai_rgo_expansion_priority = 0.025
-}
-
 sand = {
 	method = gathering
 	category = raw_material
