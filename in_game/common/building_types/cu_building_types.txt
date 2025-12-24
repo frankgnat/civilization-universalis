@@ -1,0 +1,34 @@
+﻿clay_pit_building = {
+	build_time: rural_build_time 
+	employment_size = rural_peasant_produce_employment
+	is_foreign = no
+	in_empty = owned
+	stronger_power_projection = no
+	need_good_relation = no
+	pop_type = laborers
+	category = rgo_building_category
+	construction_demand = basic_construction_needs
+	unique_production_methods = {
+			clay_pit_maintenance = {
+				produced = clay_good
+				output = 1
+				lumber = 0.28
+				category = building_maintenance
+			}
+		}
+	max_levels = rural_building_cap
+	location_potential = {
+		OR = {
+			is_coastal = yes
+			has_river = yes
+			is_adjacent_to_lake = yes
+		}
+	}
+	is_indestructible = no
+	rural_settlement = yes
+	town = yes
+	city = yes
+	always_add_demands = no
+	AI_ignore_available_worker_flag = no
+	important_for_AI = no
+}
