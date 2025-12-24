@@ -23,6 +23,17 @@
 	custom_tags = { staple_crops_goods }
 }
 
+clay_good = {
+	color = goods_clay
+
+	category = raw_material
+	method = gathering
+
+	base_production = 0.4
+	default_market_price = 0.5
+	ai_rgo_expansion_priority = 0.025
+}
+
 dates_good = {
 	color = saddle_brown_color
 
