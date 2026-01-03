@@ -11,12 +11,14 @@ cu_change_generic_county_name_event.1 = {
 	}
 
 	immediate = {
-		if = { limit = { capital = location:badrah_location } change_country_name = badrah_location }
+		if = { limit = { capital = location:afak_location } change_country_name = afak_location }
+		else_if = { limit = { capital = location:badrah_location } change_country_name = badrah_location }
 		else_if = { limit = { capital = location:baghdad_location } change_country_name = baghdad_location }
 		else_if = { limit = { capital = location:basrah_location } change_country_name = basrah_location }
 		else_if = { limit = { capital = location:chibayish_location } change_country_name = chibayish_location }
 		else_if = { limit = { capital = location:diwaniyah_location } change_country_name = diwaniyah_location }
 		else_if = { limit = { capital = location:faw_location } change_country_name = faw_location }
+		else_if = { limit = { capital = location:hamzah_location } change_country_name = hamzah_location }
 		else_if = { limit = { capital = location:hillah_location } change_country_name = hillah_location }
 		else_if = { limit = { capital = location:hubaitar_location } change_country_name = hubaitar_location }
 		else_if = { limit = { capital = location:jalibah_location } change_country_name = jalibah_location }
@@ -30,6 +32,7 @@ cu_change_generic_county_name_event.1 = {
 		else_if = { limit = { capital = location:numaniyah_location } change_country_name = numaniyah_location }
 		else_if = { limit = { capital = location:qurnah_location } change_country_name = qurnah_location }
 		else_if = { limit = { capital = location:rifai_location } change_country_name = rifai_location}
+		else_if = { limit = { capital = location:rumaythah_location } change_country_name = rumaythah_location }
 		else_if = { limit = { capital = location:samawah_location } change_country_name = samawah_location }
 		else_if = { limit = { capital = location:sankarah_location } change_country_name = sankarah_location }
 		else_if = { limit = { capital = location:shatrah_location } change_country_name = shatrah_location }
