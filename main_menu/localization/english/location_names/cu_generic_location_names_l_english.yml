@@ -1,4 +1,5 @@
 ﻿l_english:
+ afak_location: "Afak"
  badrah_location: "Badrah"
  baghdad_location: "Baghdad"
  basrah_location: "Basrah"
@@ -6,6 +7,7 @@
  diwaniyah_location: "Diwaniyah"
  faw_location: "Faw"
  gharraf_location: "Gharraf"
+ hamzah_location: "Hamzah"
  hillah_location: "Hillah"
  hubaitar_location: "Hubaitar"
  jalibah_location: "Jalibah"
@@ -19,6 +21,7 @@
  numaniyah_location: "Numaniyah"
  qurnah_location: "Qurnah"
  rifai_location: "Rifa'i"
+ rumaythah_location: "Rumaythah"
  samawah_location: "Samawah"
  sankarah_location: "Sankarah"
  shatrah_location: "Shatrah"
