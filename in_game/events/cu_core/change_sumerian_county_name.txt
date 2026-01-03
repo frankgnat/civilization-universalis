@@ -19,6 +19,7 @@ cu_change_sumerian_county_name_event.1 = {
 		else_if = { limit = { capital = location:diwaniyah_location } change_country_name = diwaniyah_location.sumerian_language }
 		else_if = { limit = { capital = location:faw_location } change_country_name = faw_location.sumerian_language }
 		else_if = { limit = { capital = location:hamzah_location } change_country_name = hamzah_location.sumerian_language }
+		else_if = { limit = { capital = location:hay_location } change_country_name = hay_location.sumerian_language }
 		else_if = { limit = { capital = location:hillah_location } change_country_name = hillah_location.sumerian_language }
 		else_if = { limit = { capital = location:hubaitar_location } change_country_name = hubaitar_location.sumerian_language }
 		else_if = { limit = { capital = location:jalibah_location } change_country_name = jalibah_location.sumerian_language }
