@@ -15,6 +15,7 @@
 				diwaniyah_province = { diwaniyah_location }
 				faw_province = { faw_location }
 				hamzah_province = { hamzah_location }
+				hay_province = { hay_location }
 				hillah_province = { hillah_location }
 				hubaitar_province = { hubaitar_location }
 				jalibah_province = { jalibah_location }
