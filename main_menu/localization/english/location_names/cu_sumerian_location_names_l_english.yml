@@ -1,5 +1,5 @@
 ﻿l_english:
- afak_location.sumerian_language: "Isin"
+ afak_location.sumerian_language: "Nibru"
  badrah_location.sumerian_language: "Der"
  baghdad_location.sumerian_language: "Bagdadu"
  basrah_location.sumerian_language: "Kikallu"
@@ -7,6 +7,7 @@
  diwaniyah_location.sumerian_language: "Marda"
  faw_location.sumerian_language: "Sud"
  hamzah_location.sumerian_language: "Urmah"
+ hay_location.sumerian_language: "Kesh"
  hillah_location.sumerian_language: "Kadingirra"
  hubaitar_location.sumerian_language: "Banda"
  jalibah_location.sumerian_language: "Putur"
