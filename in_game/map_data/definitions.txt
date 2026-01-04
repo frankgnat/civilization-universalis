@@ -7,41 +7,25 @@
 		}
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				abu_al_khaseeb_province = { abu_al_khaseeb_location }
 				afak_province = { afak_location }
 				badrah_province = { badrah_location }
 				baghdad_province = { baghdad_location }
-				basrah_province = { basrah_location }
-				chibayish_province = { chibayish_location }
+				basrah_province = { abu_al_khaseeb_location basrah_location faw_location qurnah_location rumailah_location umm_qasr_location zubayr_location }
+				dhi_qar_province = { chibayish_location jalibah_location nasiriyah_location rifai_location sankarah_location shatrah_location suq_al_shuyukh_location tell_abu_shahrain_location }
+				muthanna_province = { khodar_location rumaythah_location samawah_location tell_al_lahm_location }
 				diwaniyah_province = { diwaniyah_location }
-				faw_province = { faw_location }
 				hamzah_province = { hamzah_location }
 				hay_province = { hay_location }
 				hillah_province = { hillah_location }
 				hubaitar_province = { hubaitar_location }
-				jalibah_province = { jalibah_location }
 				karbalah_province = { karbalah_location }
-				khodar_province = { khodar_location }
 				kut_province = { kut_location }
 				madain_province = { madain_location }
 				musayab_province = { musayab_location }
 				najaf_province = { najaf_location }
-				nasiriyah_province = { nasiriyah_location }
 				numaniyah_province = { numaniyah_location }
-				qurnah_province = { qurnah_location }
-				rifai_province = { rifai_location }
-				rumailah_province = { rumailah_location }
-				rumaythah_province = { rumaythah_location }
-				samawah_province = { samawah_location }
-				sankarah_province = { sankarah_location }
-				shatrah_province = { shatrah_location }
-				suq_al_shuyukh_province = { suq_al_shuyukh_location }
-				tell_abu_shahrain_province = { tell_abu_shahrain_location }
-				tell_al_lahm_province = { tell_al_lahm_location }
-				umm_qasr_province = { umm_qasr_location }
 				yusufiyah_province = { yusufiyah_location }
 				zubaydiyah_province = { zubaydiyah_location }
-				zubayr_province = { zubayr_location }
 			}
 		}
 	}
