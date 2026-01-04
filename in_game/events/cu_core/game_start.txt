@@ -7,6 +7,7 @@ cu_game_start_event.discover_adjacent_locations_to_capital = {
 
 	immediate = {
 		capital = {
+			discover_location = root
 			every_neighbor_location = {
 				limit = { NOT = { root = { has_discovered = this } } }
 				discover_location = root
