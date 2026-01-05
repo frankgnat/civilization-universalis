@@ -16,7 +16,11 @@ earthquakes = {
 }
 
 sea_zones = { 
+	bubiyan_island_sea_zone
+	daylam_gulf_sea_zone
+	khark_island_sea_zone
 	kuwait_bay_sea_zone
+	musa_bay_sea_zone
 } 
 
 #river_provinces = { 628 630 }		#Thames
