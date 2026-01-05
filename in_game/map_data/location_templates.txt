@@ -38,10 +38,12 @@ zubaydiyah_location = { topography = flatland climate = arid vegetation = farmla
 zubayr_location = { topography = flatland climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 
 bubiyan_island_sea_zone = { topography = inland_sea climate = arid}
+bushehr_gulf_sea_zone = { topography = inland_sea climate = arid}
 daylam_gulf_sea_zone = { topography = inland_sea climate = arid}
 khark_island_sea_zone = { topography = inland_sea climate = arid}
 kuwait_bay_sea_zone = { topography = inland_sea climate = arid}
 musa_bay_sea_zone = { topography = inland_sea climate = arid}
+turkmenbashy_bay_sea_zone = { topography = inland_sea climate = cold_arid }
 
 wasteland1 = { topography = flatland_wasteland vegetation = woods climate = arctic}
 wasteland2 = { topography = flatland_wasteland vegetation = woods climate = arctic}
