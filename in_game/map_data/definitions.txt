@@ -1,4 +1,11 @@
 ﻿asia_continent = {
+	central_asia_subcontinent = {
+		caspian_sea_region = {
+			middle_caspian_sea_area = {
+				balkan_caspian_province = { turkmenbashy_bay_sea_zone }
+			}
+		}
+	}
 	west_asia_subcontinent = {
 		anatolia_region = {
 			central_anatolia_area = {
@@ -41,6 +48,7 @@ indian_ocean_continent = {
 		persian_gulf_region = {
 			north_persian_gulf_area = {
 				bushehr_coast_province = {
+					bushehr_gulf_sea_zone
 					daylam_gulf_sea_zone
 					khark_island_sea_zone
 				}
