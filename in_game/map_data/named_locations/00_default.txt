@@ -38,10 +38,12 @@ zubaydiyah_location = B68A49
 zubayr_location = CF935E
 
 bubiyan_island_sea_zone = 28B4C8
+bushehr_gulf_sea_zone = 5AD2FA
 daylam_gulf_sea_zone = 0A96DC
 khark_island_sea_zone = C81EF0
 kuwait_bay_sea_zone = 306CA1
 musa_bay_sea_zone = 78E6F0
+turkmenbashy_bay_sea_zone = 3CF0FF
 
 wasteland1 = 9e0142
 wasteland2 = d53e4f
