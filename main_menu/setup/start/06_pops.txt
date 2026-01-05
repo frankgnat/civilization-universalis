@@ -1,4 +1,7 @@
 locations = {
+	abdali_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
 	abu_al_khaseeb_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
@@ -17,13 +20,16 @@ locations = {
 	chibayish_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
+	dawayah_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
 	diwaniyah_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
-	faw_location = {
+	hamzah_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
-	hamzah_location = {
+	harithah_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	hay_location = {
@@ -62,6 +68,9 @@ locations = {
 	numaniyah_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
+	qalat_saleh_location = {
+		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
+	}
 	qurnah_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
@@ -93,9 +102,6 @@ locations = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	tell_al_lahm_location = {
-		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
-	}
-	umm_qasr_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 	yusufiyah_location = {
