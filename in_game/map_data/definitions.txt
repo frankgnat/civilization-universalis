@@ -3,6 +3,7 @@
 		caspian_sea_region = {
 			middle_caspian_sea_area = {
 				balkan_caspian_province = { turkmenbashy_bay_sea_zone }
+				garabogazkol_province = { sarldamchi_spit_sea_zone }
 			}
 		}
 	}
