@@ -43,6 +43,7 @@ daylam_gulf_sea_zone = { topography = inland_sea climate = arid}
 khark_island_sea_zone = { topography = inland_sea climate = arid}
 kuwait_bay_sea_zone = { topography = inland_sea climate = arid}
 musa_bay_sea_zone = { topography = inland_sea climate = arid}
+sarldamchi_spit_sea_zone = { topography = inland_sea climate = cold_arid }
 turkmenbashy_bay_sea_zone = { topography = inland_sea climate = cold_arid }
 
 wasteland1 = { topography = flatland_wasteland vegetation = woods climate = arctic}
