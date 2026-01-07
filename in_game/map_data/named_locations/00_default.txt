@@ -41,6 +41,7 @@ bubiyan_island_sea_zone = 28B4C8
 bushehr_gulf_sea_zone = 5AD2FA
 daylam_gulf_sea_zone = 0A96DC
 khark_island_sea_zone = C81EF0
+sarldamchi_spit_sea_zone = AA3CE6
 kuwait_bay_sea_zone = 306CA1
 musa_bay_sea_zone = 78E6F0
 turkmenbashy_bay_sea_zone = 3CF0FF
