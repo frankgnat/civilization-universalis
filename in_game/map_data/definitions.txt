@@ -1,18 +1,5 @@
 ﻿asia_continent = {
-	central_asia_subcontinent = {
-		caspian_sea_region = {
-			middle_caspian_sea_area = {
-				balkan_caspian_province = { turkmenbashy_bay_sea_zone }
-				garabogazkol_province = { sarldamchi_spit_sea_zone }
-			}
-		}
-	}
 	west_asia_subcontinent = {
-		anatolia_region = {
-			central_anatolia_area = {
-				sungurlu_province = { sungurlu_location }
-			}
-		}
 		arabia_region = {
 			east_arabia_area = {
 				kuwait_province = { abdali_location }
@@ -20,16 +7,19 @@
 		}
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				qalat_saleh_province = { qalat_saleh_location }
+				test_province = { izeh_location }
+				basra_province = { basra_location haritha_location qurna_location umm_qasr_location zubayr_location }
+				khuzestan_province = { abadan_location ahvaz_location bandar_mahshahr_location behbahan_location darkhoveyn_location hendijan_location hoveyzeh_location khorramshahr_location masjed_soleyman_location omidiyeh_location ramhormoz_location ramshir_location shadegan_location shushtar_location susangerd_location }
+				maysan_province = { qalat_saleh_location }
+
 				afak_province = { afak_location }
 				badrah_province = { badrah_location }
 				baghdad_province = { baghdad_location }
-				basrah_province = { abu_al_khaseeb_location basrah_location harithah_location hubaitar_location qurnah_location rumailah_location umm_qasr_location zubayr_location }
-				dhi_qar_province = { chibayish_location dawayah_location jalibah_location nasiriyah_location rifai_location sankarah_location shatrah_location suq_al_shuyukh_location tell_abu_shahrain_location }
-				muthanna_province = { khodar_location rumaythah_location samawah_location tell_al_lahm_location }
+				basrah_province = { abu_al_khaseeb_location basrah_location }
+				dhi_qar_province = { chibayish_location jalibah_location }
+				muthanna_province = { khodar_location rumaythah_location samawah_location }
 				diwaniyah_province = { diwaniyah_location }
 				hamzah_province = { hamzah_location }
-				hay_province = { hay_location }
 				hillah_province = { hillah_location }
 				karbalah_province = { karbalah_location }
 				kut_province = { kut_location }
@@ -50,15 +40,17 @@ indian_ocean_continent = {
 			north_persian_gulf_area = {
 				bushehr_coast_province = {
 					bushehr_gulf_sea_zone
-					daylam_gulf_sea_zone
+					ganaveh_bay_sea_zone
 					khark_island_sea_zone
 				}
 				kuwait_coast_province = {
+					failaka_island_sea_zone
 					kuwait_bay_sea_zone
 				}
 				shatt_al_arab_province = {
+					arvand_gulf_sea_zone
 					bubiyan_island_sea_zone
-					musa_bay_sea_zone
+					cape_bagheran_sea_zone
 				}
 			}
 		}
