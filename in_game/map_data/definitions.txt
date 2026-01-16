@@ -7,22 +7,16 @@
 		}
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				test_province = {  }
+				test_province = { shush_location }
 				basra_province = { basra_location haritha_location qurna_location umm_qasr_location zubayr_location }
-				khuzestan_province = { abadan_location ahvaz_location alvan_location bandar_mahshahr_location behbahan_location darkhoveyn_location hamidiyeh_location hendijan_location izeh_location khorramshahr_location masjed_soleyman_location omidiyeh_location ramhormoz_location ramshir_location shadegan_location shushtar_location susangerd_location }
+				khuzestan_province = { abadan_location ahvaz_location alvan_location bandar_mahshahr_location behbahan_location darkhoveyn_location dehdez_location haftkel_location hamidiyeh_location hendijan_location izeh_location khorramshahr_location mollasani_location omidiyeh_location ramhormoz_location ramshir_location shadegan_location shushtar_location susangerd_location }
 				maysan_province = { ali_al_gharbi_location amara_location kahla_location maimouna_location majar_al_kabir_location mashra_location qalat_saleh_location }
 
 				afak_province = { afak_location }
-				basrah_province = { abu_al_khaseeb_location basrah_location }
-				dhi_qar_province = { chibayish_location jalibah_location }
 				diwaniyah_province = { diwaniyah_location }
 				hillah_province = { hillah_location }
 				karbalah_province = { karbalah_location }
-				kut_province = { kut_location }
-				madain_province = { madain_location }
-				musayab_province = { musayab_location }
 				najaf_province = { najaf_location }
-				yusufiyah_province = { yusufiyah_location }
 				zubaydiyah_province = { zubaydiyah_location }
 			}
 		}
