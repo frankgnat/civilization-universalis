@@ -16,14 +16,14 @@ earthquakes = {
 }
 
 sea_zones = { 
+	arvand_gulf_sea_zone
 	bubiyan_island_sea_zone
 	bushehr_gulf_sea_zone
-	daylam_gulf_sea_zone
-	khark_island_sea_zone
+	cape_bagheran_sea_zone
+	failaka_island_sea_zone
+	ganaveh_bay_sea_zone
 	kuwait_bay_sea_zone
-	musa_bay_sea_zone
-	sarldamchi_spit_sea_zone
-	turkmenbashy_bay_sea_zone
+	khark_island_sea_zone
 } 
 
 #river_provinces = { 628 630 }		#Thames
