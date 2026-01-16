@@ -12,8 +12,10 @@ bubiyan_island_sea_zone = { topography = inland_sea climate = arid}
 bushehr_gulf_sea_zone = { topography = inland_sea climate = arid}
 cape_bagheran_sea_zone = { topography = inland_sea climate = arid}
 darkhoveyn_location = { topography = wetlands climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
+dehdez_location = { topography = mountains climate = continental vegetation = forest culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 failaka_island_sea_zone = { topography = inland_sea climate = arid}
 ganaveh_bay_sea_zone = { topography = inland_sea climate = arid}
+haftkel_location = { topography = hills climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 hamidiyeh_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 haritha_location = { topography = wetlands climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 hendijan_location = { topography = flatland climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
@@ -25,13 +27,14 @@ kuwait_bay_sea_zone = { topography = inland_sea climate = arid}
 maimouna_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 majar_al_kabir_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 mashra_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
-masjed_soleyman_location = { topography = hills climate = arid vegetation = woods culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
+mollasani_location = { topography = flatland climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 omidiyeh_location = { topography = flatland climate = arid vegetation = desert culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 qalat_saleh_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 qurna_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 ramhormoz_location = { topography = hills climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 ramshir_location = { topography = flatland climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = dates_good }
 shadegan_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
+shush_location = { topography = flatland climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 shushtar_location = { topography = plateau climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 susangerd_location = { topography = wetlands climate = arid vegetation = grasslands culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 umm_qasr_location = { topography = wetlands climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
@@ -41,10 +44,7 @@ afak_location = { topography = wetlands climate = arid vegetation = sparse cultu
 diwaniyah_location = { topography = flatland climate = arid vegetation = sparse culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = dates_good }
 hillah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 karbalah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
-madain_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
-musayab_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 najaf_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
-yusufiyah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 zubaydiyah_location = { topography = flatland climate = arid vegetation = farmland culture = sumerian_culture religion = sumerian_pantheon_religion raw_material = barley_good }
 
 
