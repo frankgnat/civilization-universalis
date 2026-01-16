@@ -3,17 +3,12 @@ current_age = age_1_traditions
 countries = {
 	countries = {
 		SUM = {	
-			capital = nasiriyah_location
+			capital = umm_qasr_location
 			own_control_core = {
-				nasiriyah_location
+				umm_qasr_location
 			}
 
 			starting_technology_level = 2
-			
-			discovered_provinces = {
-				fadliyah_province
-				nasiriyah_province
-			}
 
 			government = {
 				ruler = random
