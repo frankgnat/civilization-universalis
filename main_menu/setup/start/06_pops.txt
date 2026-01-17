@@ -5,18 +5,22 @@ locations = {
 	ali_al_gharbi_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	alvan_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	amara_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
+	andimeshk_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	bandar_mahshahr_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	basra_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	behbahan_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	chibayish_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	darkhoveyn_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	dehdez_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
+	dezful_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
+	gotvand_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	haftkel_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	hamidiyeh_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	haritha_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	hendijan_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	izeh_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	khorramshahr_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
+	lali_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	maimouna_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	majar_al_kabir_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 	mashra_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
@@ -37,12 +41,6 @@ locations = {
 	zubayr_location = { define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion } }
 
 	karbalah_location = {
-		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
-	}
-	najaf_location = {
-		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
-	}
-	zubaydiyah_location = {
 		define_pop = { type = tribesmen size = 1.000 culture = sumerian_culture religion = sumerian_pantheon_religion }
 	}
 }
