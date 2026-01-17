@@ -17,18 +17,22 @@ cu_change_generic_county_name_event.1 = {
 		else_if = { limit = { capital = location:ali_al_gharbi_location } change_country_name = ali_al_gharbi_location }
 		else_if = { limit = { capital = location:alvan_location } change_country_name = alvan_location }
 		else_if = { limit = { capital = location:amara_location } change_country_name = amara_location }
+		else_if = { limit = { capital = location:andimeshk_location } change_country_name = andimeshk_location }
 		else_if = { limit = { capital = location:bandar_mahshahr_location } change_country_name = bandar_mahshahr_location }
 		else_if = { limit = { capital = location:basra_location } change_country_name = basra_location }
 		else_if = { limit = { capital = location:behbahan_location } change_country_name = behbahan_location }
 		else_if = { limit = { capital = location:chibayish_location } change_country_name = chibayish_location }
 		else_if = { limit = { capital = location:darkhoveyn_location } change_country_name = darkhoveyn_location }
 		else_if = { limit = { capital = location:dehdez_location } change_country_name = dehdez_location }
+		else_if = { limit = { capital = location:dezful_location } change_country_name = dezful_location }
+		else_if = { limit = { capital = location:gotvand_location } change_country_name = gotvand_location }
 		else_if = { limit = { capital = location:haftkel_location } change_country_name = haftkel_location }
 		else_if = { limit = { capital = location:hamidiyeh_location } change_country_name = hamidiyeh_location }
 		else_if = { limit = { capital = location:haritha_location } change_country_name = haritha_location }
 		else_if = { limit = { capital = location:hendijan_location } change_country_name = hendijan_location }
 		else_if = { limit = { capital = location:izeh_location } change_country_name = izeh_location }
 		else_if = { limit = { capital = location:khorramshahr_location } change_country_name = khorramshahr_location }
+		else_if = { limit = { capital = location:lali_location } change_country_name = lali_location }
 		else_if = { limit = { capital = location:maimouna_location } change_country_name = maimouna_location }
 		else_if = { limit = { capital = location:majar_al_kabir_location } change_country_name = majar_al_kabir_location }
 		else_if = { limit = { capital = location:mashra_location } change_country_name = mashra_location }
