@@ -3,9 +3,9 @@ current_age = age_1_traditions
 countries = {
 	countries = {
 		SUM = {	
-			capital = umm_qasr_location
+			capital = nasiriyah_location
 			own_control_core = {
-				umm_qasr_location
+				nasiriyah_location
 			}
 
 			starting_technology_level = 2
