@@ -1,10 +1,11 @@
 {
-	"name":	"Civilization Universalis",
-	"id":	"civilization-universalis",
+	"name" : "Civilization Universalis",
+	"id" : "",
 	"version" : "",
 	"supported_game_version" : "",
-	"short_description":	"A total conversion mod for Europa Universalis V.",
-	"tags":	["Overhaul"],
+	"short_description" : "Civilization Universalis",
+	"tags" : [],
+	"picture" : "thumbnail.png",
 	"relationships" : [],
 	"game_custom_data" : {
 		"multiplayer_synchronized" : true,
