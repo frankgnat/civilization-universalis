@@ -6,11 +6,11 @@ institution_manager = {
 		}
 		legalism = {
 			active = yes
-			birth_place = nasiriyah_location
+			birth_place = testprovince2
 		}
 		meritocracy = {
 			active = yes
-			birth_place = nasiriyah_location
+			birth_place = testprovince3
 		}
 	}
 }
