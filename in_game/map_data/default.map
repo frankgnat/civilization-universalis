@@ -9,27 +9,43 @@ location_templates = "location_templates.txt"
 equator_y = 3340
 wrap_x = yes
 
+#############
+# VOLCANOES
+#############
 volcanoes = {
 }
 
+###################################
+# All possible earthquake zones
+###################################
 earthquakes = {
 }
 
+#############
+# SEA ZONES
+#############
+# European Seas
 sea_zones = { 
-	arvand_gulf_sea_zone
+	my_sea_zone
 	bubiyan_island_sea_zone
-	bushehr_gulf_sea_zone
-	cape_bagheran_sea_zone
-	failaka_island_sea_zone
-	ganaveh_bay_sea_zone
-	kuwait_bay_sea_zone
-	khark_island_sea_zone
 } 
 
+###############
+# MAJOR RIVERS
+###############
 #river_provinces = { 628 630 }		#Thames
 
+########
+# LAKES
+########
 lakes = { 
 } 
+
+#####################
+# IMPASSABLE TERRAIN
+#####################
+# Can be colored by whoever owns the most of the province's neighbors.
+# Blocks unit movement.
 
 impassable_mountains = {
 	wasteland1
@@ -42,6 +58,7 @@ impassable_mountains = {
 	wasteland8
 	wasteland9
 	wasteland10
+	wasteland_blocker
 }
 
 non_ownable = {
