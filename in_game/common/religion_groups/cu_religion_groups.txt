@@ -1,3 +1,0 @@
-﻿pagan_religion_group = {
-	color = dark_gray_color
-}
