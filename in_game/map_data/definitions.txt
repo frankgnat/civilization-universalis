@@ -2,14 +2,15 @@
 	west_asia_subcontinent = {
 		mesopotamia_region = {
 			lower_mesopotamia_area = {
-				dhi_qar_province = {
+				nasiriyah_province = {
 					nasiriyah_location
 					shatrah_location
 					suq_al_shuyukh_location
+					tell_abu_shahrain_location
 					tell_al_lahm_location
 				}
 				test_province = {
-					tell_abu_shahrain_location
+					samawah_location
 				}
 			}
 		}
@@ -54,7 +55,6 @@ custom_continent = {
 					testprovince25
 					testprovince26
 					testprovince27
-					testprovince28
 					testprovince29
 					testprovince30
 					testprovince31
