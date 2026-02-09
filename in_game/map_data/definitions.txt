@@ -4,7 +4,12 @@
 			lower_mesopotamia_area = {
 				dhi_qar_province = {
 					nasiriyah_location
+					shatrah_location
 					suq_al_shuyukh_location
+					tell_al_lahm_location
+				}
+				test_province = {
+					tell_abu_shahrain_location
 				}
 			}
 		}
@@ -34,10 +39,7 @@ custom_continent = {
 					testprovince6
 					testprovince7
 					testprovince8
-					testprovince9
 					testprovince10
-					testprovince11
-					testprovince12
 					testprovince13
 					testprovince14
 					testprovince15
