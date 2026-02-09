@@ -1,5 +1,6 @@
 ﻿bubiyan_island_sea_zone = 2D09C7
 nasiriyah_location = 53A54C
+samawah_location = 7E701E
 shatrah_location = 47B161
 suq_al_shuyukh_location = A0A04B
 tell_abu_shahrain_location = 374830
@@ -41,7 +42,6 @@ testprovince24 = 0AB770
 testprovince25 = 82AE51
 testprovince26 = CB27A1
 testprovince27 = 7AB5D6
-testprovince28 = 7E701E
 testprovince29 = 00A218
 testprovince30 = 4CB108
 testprovince31 = F50E92
