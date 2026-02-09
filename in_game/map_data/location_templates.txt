@@ -2,6 +2,7 @@ my_sea_zone = { topography = narrows climate = subtropical}
 
 bubiyan_island_sea_zone = { climate = hot_arid_climate topography = inland_sea_topography }
 nasiriyah_location = { climate = hot_arid_climate vegetation = shrubland_vegetation topography = plain_topography culture = danube_bavarian religion = catholic raw_material = wheat }
+samawah_location = { climate = hot_arid_climate vegetation = shrubland_vegetation topography = plain_topography culture = danube_bavarian religion = catholic raw_material = wheat }
 shatrah_location = { climate = hot_arid_climate vegetation = shrubland_vegetation topography = plain_topography culture = danube_bavarian religion = catholic raw_material = wheat }
 suq_al_shuyukh_location = { climate = hot_arid_climate vegetation = grassland_vegetation topography = wetland_topography culture = danube_bavarian religion = catholic raw_material = wheat }
 tell_abu_shahrain_location = { climate = hot_arid_climate vegetation = shrubland_vegetation topography = plain_topography culture = danube_bavarian religion = catholic  raw_material = wheat }
