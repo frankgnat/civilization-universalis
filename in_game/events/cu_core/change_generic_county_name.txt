@@ -13,7 +13,10 @@ cu_change_generic_county_name_event.1 = {
 	immediate = {
 		if = { limit = { capital = location:abadan_location } change_country_name = abadan_location }
 		else_if = { limit = { capital = location:nasiriyah_location } change_country_name = nasiriyah_location }
+        else_if = { limit = { capital = location:shatrah_location } change_country_name = shatrah_location }
         else_if = { limit = { capital = location:suq_al_shuyukh_location } change_country_name = suq_al_shuyukh_location }
+        else_if = { limit = { capital = location:tell_abu_shahrain_location } change_country_name = tell_abu_shahrain_location }
+        else_if = { limit = { capital = location:tell_al_lahm_location } change_country_name = tell_al_lahm_location }
 	}
 
 	option = {
