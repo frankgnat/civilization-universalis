@@ -2,7 +2,7 @@ institution_manager = {
 	institutions = {
 		feudalism = {
 			active = yes
-			birth_place = nasiriyah_location
+			birth_place = testprovince1
 		}
 		legalism = {
 			active = yes
