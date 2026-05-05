@@ -27,7 +27,6 @@ earthquakes = {
 # European Seas
 sea_zones = { 
 	my_sea_zone
-	bubiyan_island_sea_zone
 } 
 
 ###############
