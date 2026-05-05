@@ -1,6 +1,24 @@
- locations = {
-	nasiriyah_location = {
+ locations={
+
+	testprovince1 = {
 		feudalism = yes
 		legalism = yes
 	}
+	testprovince2 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince3 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince4 = {
+		feudalism = yes
+		legalism = yes
+	}
+	testprovince6 = {
+		feudalism = yes
+		legalism = yes
+	}
+
 }
