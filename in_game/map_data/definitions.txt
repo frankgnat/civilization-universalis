@@ -4,6 +4,7 @@
 			lower_mesopotamia_area = {
 				nasiriyah_province = {
 					fudaliyah_location
+					gharraf_location
 					nasiriyah_location
 					suq_al_shuyukh_location
 					tell_abu_shahrain_location
@@ -30,7 +31,6 @@ custom_continent = {
 					testprovince13
 					testprovince14
 					testprovince15
-					testprovince16
 					testprovince17
 					testprovince18
 					testprovince19
