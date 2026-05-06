@@ -8,6 +8,14 @@ fudaliyah_location = {
     religion = catholic 
     raw_material = wheat
 }
+gharraf_location = { 
+    topography = wetlands
+    vegetation = grasslands 
+    climate = subtropical 
+    culture = danube_bavarian
+    religion = catholic 
+    raw_material = wheat
+}
 nasiriyah_location = { 
     topography = wetlands
     vegetation = grasslands 
