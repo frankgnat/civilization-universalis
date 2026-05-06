@@ -1,6 +1,6 @@
-﻿HAB = {
+﻿SUM = {
 	color = map_austrian
-	color2 = rgb { 220  220  220 }	#Like in EU4
+	color2 = rgb { 220  220  220 }
 
 	unit_color0 = rgb {	200 200 200 }
 	unit_color1 = rgb {	157 48 28 }
