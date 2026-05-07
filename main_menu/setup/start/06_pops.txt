@@ -3,7 +3,7 @@ locations = {
 		define_pop = {	
 			type = peasants	
 			size = 5.000 
-			culture = danube_bavarian 
+			culture = sumerian_culture 
 			religion = catholic 
 		}
 	}
