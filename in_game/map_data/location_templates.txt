@@ -4,7 +4,7 @@ fudaliyah_location = {
     topography = wetlands
     vegetation = grasslands 
     climate = subtropical 
-    culture = danube_bavarian
+    culture = sumerian_culture
     religion = catholic 
     raw_material = wheat
 }
@@ -12,7 +12,7 @@ gharraf_location = {
     topography = wetlands
     vegetation = grasslands 
     climate = subtropical 
-    culture = danube_bavarian
+    culture = sumerian_culture
     religion = catholic 
     raw_material = wheat
 }
@@ -20,7 +20,7 @@ nasiriyah_location = {
     topography = wetlands
     vegetation = grasslands 
     climate = subtropical 
-    culture = danube_bavarian
+    culture = sumerian_culture
     religion = catholic 
     raw_material = wheat
 }
@@ -28,7 +28,7 @@ suq_al_shuyukh_location = {
     topography = wetlands
     vegetation = grasslands 
     climate = subtropical 
-    culture = danube_bavarian
+    culture = sumerian_culture
     religion = catholic 
     raw_material = wheat
 }
@@ -36,7 +36,7 @@ tell_abu_shahrain_location = {
     topography = wetlands
     vegetation = grasslands 
     climate = subtropical 
-    culture = danube_bavarian
+    culture = sumerian_culture
     religion = catholic 
     raw_material = wheat
 }
@@ -44,7 +44,7 @@ tell_al_lahm_location = {
     topography = wetlands
     vegetation = grasslands 
     climate = subtropical 
-    culture = danube_bavarian
+    culture = sumerian_culture
     religion = catholic 
     raw_material = wheat
 }
