@@ -1,0 +1,6 @@
+﻿sumerian_culture = {
+	color = lapis_lazuli_color
+	culture_groups = { mesopotamian_culture_group }
+	language = sumerian_language
+	tags = { arabian_gfx middle_east_gfx  }
+}
