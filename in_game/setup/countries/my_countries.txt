@@ -1,14 +1,14 @@
 ﻿SUM = {
-	color = map_austrian
-	color2 = rgb { 220  220  220 }
+	color = lapis_lazuli_color
+	color2 = terracotta_color
 
 	unit_color0 = rgb {	200 200 200 }
 	unit_color1 = rgb {	157 48 28 }
 	unit_color2 = rgb {	19 20 25 }
 
-	culture_definition = danube_bavarian
+	culture_definition = sumerian_culture
 	religion_definition = catholic
 	
-	description_category = diplomatic
+	description_category = administrative
 	difficulty = 3
 }
