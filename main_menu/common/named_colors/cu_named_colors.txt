@@ -1,0 +1,6 @@
+
+colors = {
+	bitumen_color = rgb { 62 42 18 }
+	lapis_lazuli_color = rgb { 38 73 138 }
+	terracotta_color = rgb { 192 120 72 }
+}
