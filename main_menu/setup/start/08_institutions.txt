@@ -16,6 +16,10 @@
 		feudalism = yes
 		legalism = yes
 	}
+	testprovince5 = {
+		feudalism = yes
+		legalism = yes
+	}
 	testprovince6 = {
 		feudalism = yes
 		legalism = yes
