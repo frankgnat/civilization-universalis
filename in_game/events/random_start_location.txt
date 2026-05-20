@@ -1,0 +1,48 @@
+namespace = random_start_location
+
+random_start_location.1 = {
+	type = country_event
+	hidden = yes
+
+	trigger = {
+		is_human = yes
+		any_owned_location = {
+			count > 0
+		}
+		NOT = { has_variable = random_start_location_applied }
+	}
+
+	immediate = {
+		set_variable = {
+			name = random_start_location_applied
+			value = 1
+		}
+
+		random_location_in_the_world = {
+			limit = {
+				is_land = yes
+				is_ownable = yes
+			}
+			save_scope_as = random_start_location_target
+		}
+
+		scope:random_start_location_target = {
+			change_location_owner = root
+			change_location_controller = root
+		}
+
+		set_capital = scope:random_start_location_target
+
+		every_owned_location = {
+			limit = {
+				NOT = { this = scope:random_start_location_target }
+			}
+
+			root = {
+				abandon_location = prev
+			}
+
+			remove_core = root
+		}
+	}
+}
