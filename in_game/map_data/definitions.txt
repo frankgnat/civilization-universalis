@@ -1,21 +1,4 @@
-﻿asia_continent = {
-	west_asia_subcontinent = {	
-		mesopotamia_region = {
-			lower_mesopotamia_area = {
-				nasiriyah_province = {
-					fudaliyah_location
-					gharraf_location
-					nasiriyah_location
-					suq_al_shuyukh_location
-					tell_abu_shahrain_location
-					tell_al_lahm_location
-				}
-			}
-		}
-	}
-}
-
-custom_continent = {
+﻿custom_continent = {
 	custom_subcontintent = {	
 		custom_region = {
 			#always have at least 6 normal non-wasteland locations on the map and code!!!
@@ -25,12 +8,18 @@ custom_continent = {
 					testprovince2
 					testprovince3
 					testprovince4
+					testprovince5
 					testprovince6
 					testprovince7
 					testprovince8
+					testprovince9
+					testprovince10
+					testprovince11
+					testprovince12
 					testprovince13
 					testprovince14
 					testprovince15
+					testprovince16
 					testprovince17
 					testprovince18
 					testprovince19
