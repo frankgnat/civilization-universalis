@@ -13,23 +13,22 @@ wasteland10 = 5e4fa2
 
 wasteland_blocker = 1E0F0D
 
-fudaliyah_location = 53B48E
-gharraf_location = 5BB285
-nasiriyah_location = A0A04B
-suq_al_shuyukh_location = 47B161
-tell_abu_shahrain_location = 374830
-tell_al_lahm_location = 6D9868
-
 testprovince1 = 53A54C
 testprovince2 = 514A9E
 testprovince3 = 4EA7FF
 testprovince4 = A34C84
+testprovince5 = A0A04B
 testprovince6 = FF7F6D
 testprovince7 = A22143
 testprovince8 = 163B73
+testprovince9 = 47B161
+testprovince10 = 53B48E
+testprovince11 = 6D9868
+testprovince12 = 374830
 testprovince13 = C19FE7
 testprovince14 = 9375DB
 testprovince15 = F3ABDD
+testprovince16 = 5BB285
 testprovince17 = 2D09C7
 testprovince18 = 191D90
 testprovince19 = E7994A
