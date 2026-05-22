@@ -1,4 +1,0 @@
-
-road_network = {
- 	testprovince2 = testprovince3
-}
