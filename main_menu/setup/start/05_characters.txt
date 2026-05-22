@@ -1,0 +1,17 @@
+character_db = {
+	hab_albrecht_ii_habsburg = {
+		first_name = { name = name_albert }
+		nickname = { name = the_wise }
+		culture = danube_bavarian
+		religion = catholic
+		estate = nobles_estate
+		adm = 85 dip = 66 mil = 33
+		female = no
+		birth_date = 1298.12.12
+		birth = testprovince2
+		dynasty = habsburg_dynasty
+		fertility = 75
+		tag = HAB
+		ruler_trait = lawgiver
+	}
+}
