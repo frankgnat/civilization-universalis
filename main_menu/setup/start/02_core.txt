@@ -10,7 +10,7 @@ institution_manager = {
 		}
 		meritocracy = {
 			active = yes
-			birth_place = testprovince3
+			birth_place = testprovince2
 		}
 	}
 }
