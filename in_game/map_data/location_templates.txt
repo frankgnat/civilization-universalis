@@ -9,6 +9,15 @@ abu_al_khaseeb_location = {
     raw_material = wheat
 }
 
+basra_location = { 
+    topography = wetlands 
+    climate = subtropical
+    vegetation = grasslands
+    culture = danube_bavarian
+    religion = catholic
+    raw_material = wheat
+}
+
 bubiyan_island_location = { 
     topography = narrows 
     climate = subtropical
@@ -42,6 +51,15 @@ suq_al_shuyukh_location = {
 }
 
 umm_qasr_location = { 
+    topography = wetlands 
+    climate = subtropical
+    vegetation = grasslands
+    culture = danube_bavarian
+    religion = catholic
+    raw_material = wheat
+}
+
+zubayr_location = { 
     topography = wetlands 
     climate = subtropical
     vegetation = grasslands
