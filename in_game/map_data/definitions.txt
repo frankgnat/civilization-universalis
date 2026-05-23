@@ -4,8 +4,10 @@
 			lower_mesopotamia_area = {
 				basra_province = {
 					abu_al_khaseeb_location
+					basra_location
 					faw_location
 					umm_qasr_location
+					zubayr_location
 				}
 				dhi_qar_province = {
 					nasiriyah_location
@@ -39,7 +41,6 @@ custom_continent = {
 					testprovince6
 					testprovince7
 					testprovince8
-					testprovince10
 					testprovince13
 					testprovince14
 					testprovince15
