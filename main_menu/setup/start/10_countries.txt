@@ -4,7 +4,7 @@ countries = {
 	countries = {
 		HAB = {	#Austria
 			own_control_core = {
-				testprovince2
+				nasiriyah_location
 			}
 
 			starting_technology_level = 2
@@ -24,7 +24,7 @@ countries = {
 
 			country_rank = rank_duchy
 			dynasty = habsburg_dynasty
-			capital = testprovince2
+			capital = nasiriyah_location
 		}
 	}
 }
