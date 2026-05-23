@@ -6,6 +6,7 @@
 					abu_al_khaseeb_location
 					basra_location
 					faw_location
+					safwan_location
 					umm_qasr_location
 					zubayr_location
 				}
@@ -22,8 +23,10 @@ indian_ocean_continent = {
 	arabian_sea_subcontinent = {	
 		persian_gulf_region = {
 			shatt_al_arab_delta_area = {
-				kuwaiti_coast_province = {
+				khor_abdullah_province = {
 					bubiyan_island_location
+					mahall_gharaq_location
+					warbah_island_location
 				}
 			}
 		}
@@ -33,14 +36,11 @@ indian_ocean_continent = {
 custom_continent = {
 	custom_subcontintent = {	
 		custom_region = {
-			#always have at least 6 normal non-wasteland locations on the map and code!!!
 			my_land_area = {
 				my_land_province = {
-					testprovince2
 					testprovince4
 					testprovince6
 					testprovince7
-					testprovince8
 					testprovince13
 					testprovince14
 					testprovince15
