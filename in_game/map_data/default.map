@@ -23,6 +23,8 @@ earthquakes = {
 
 sea_zones = { 
 	bubiyan_island_location
+	mahall_gharaq_location
+	warbah_island_location
 } 
 
 ###############
