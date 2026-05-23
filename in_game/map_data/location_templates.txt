@@ -32,7 +32,21 @@ faw_location = {
     raw_material = wheat
 }
 
+mahall_gharaq_location = { 
+    topography = narrows 
+    climate = subtropical
+}
+
 nasiriyah_location = { 
+    topography = wetlands 
+    climate = subtropical
+    vegetation = grasslands
+    culture = danube_bavarian
+    religion = catholic
+    raw_material = wheat
+}
+
+safwan_location = { 
     topography = wetlands 
     climate = subtropical
     vegetation = grasslands
@@ -59,6 +73,11 @@ umm_qasr_location = {
     raw_material = wheat
 }
 
+warbah_island_location = { 
+    topography = narrows 
+    climate = subtropical
+}
+
 zubayr_location = { 
     topography = wetlands 
     climate = subtropical
@@ -68,7 +87,6 @@ zubayr_location = {
     raw_material = wheat
 }
 
-testprovince2 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 testprovince4 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 testprovince6 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
 
