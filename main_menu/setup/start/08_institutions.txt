@@ -1,5 +1,5 @@
  locations={
-	testprovince2 = {
+	testprovince4 = {
 		feudalism = yes
 		legalism = yes
 	}
