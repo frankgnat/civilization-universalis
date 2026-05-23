@@ -2,15 +2,15 @@ institution_manager = {
 	institutions = {
 		feudalism = {
 			active = yes
-			birth_place = testprovince2
+			birth_place = testprovince4
 		}
 		legalism = {
 			active = yes
-			birth_place = testprovince2
+			birth_place = testprovince4
 		}
 		meritocracy = {
 			active = yes
-			birth_place = testprovince2
+			birth_place = testprovince4
 		}
 	}
 }
